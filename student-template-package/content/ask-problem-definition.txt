@@ -1,0 +1,103 @@
+# Problem Definition Framework
+# Use this template to clearly define your management problem
+
+## X → Y Framework
+### Current State (X - What's happening now that's problematic?)
+High coaching turnover rates in college athletics are disrupting program stability and negatively impacting team performance, athlete development, and organizational success.
+
+### Desired State (Y - What outcome do we want to achieve?)
+Reduced coaching turnover in college athletics, resulting in stable coaching leadership that enhances program performance, athlete development, and long-term organizational success.
+
+## Research Questions
+
+### Primary Research Question:
+**"What strategies can college athletic programs implement to reduce coaching turnover and improve program stability?"**
+
+### Supporting Research Questions:
+
+#### Problem Understanding Questions:
+1. **What are the current coaching turnover rates in college athletics?**
+2. **What are the primary causes of coaching turnover in college sports?**
+3. **How does coaching turnover impact team performance and athlete development?**
+4. **What are the financial costs of high coaching turnover?**
+
+#### Solution-Focused Questions:
+5. **What retention strategies have proven most effective in reducing coaching turnover?**
+6. **How do compensation packages influence coaching retention decisions?**
+7. **What role do professional development opportunities play in coaching retention?**
+8. **How important are job security and contract terms in coaching retention?**
+
+#### Implementation Questions:
+9. **What organizational factors support successful coaching retention programs?**
+10. **How can athletic departments create better work environments for coaches?**
+11. **What role do career advancement pathways play in retaining coaches?**
+12. **How do successful athletic programs maintain coaching stability?**
+
+#### Context-Specific Questions:
+13. **Do retention strategies differ between revenue and non-revenue sports?**
+14. **How do coaching turnover patterns vary by division level (I, II, III)?**
+15. **What regional or conference-specific factors affect coaching retention?**
+
+## PICOC Framework
+### Population (P - Who is affected by this problem?)
+- **Primary**: Student-athletes who experience disruption from coaching changes
+- **Secondary**: Athletic directors and department administrators responsible for hiring/retention
+- **Tertiary**: Coaching staff (both departing and incoming), support staff, recruits and their families, alumni, and university stakeholders
+
+### Intervention (I - What solution/action are we considering?)
+Implementing coaching retention strategies including: competitive compensation packages, enhanced job security, professional development programs, improved work-life balance, recognition and support systems, and clear career advancement pathways.
+
+### Comparison (C - What alternatives exist?)
+- **Status quo**: Continue current hiring/retention practices
+- **Minimal intervention**: Focus only on salary increases
+- **Partial solution**: Address only hiring OR retention, not both
+- **Alternative approach**: Outsource coaching recruitment to specialized firms
+
+### Outcomes (O - What will success look like?)
+- **Reduced coaching turnover rates** (target: 15-20% reduction within 12 months)
+- **Improved coaching retention** (longer average tenure in positions)
+- **Enhanced program performance** (improved wins, recruiting success, team stability)
+- **Higher coach satisfaction** (measured through surveys and retention data)
+- **Better athlete outcomes** (improved team performance and athlete development)
+- **Increased program stability** (reduced recruitment disruption, consistent team culture)
+
+### Context (C - Where/when does this apply?)
+NCAA Division I and II collegiate athletic programs, particularly in competitive conferences where coaching stability impacts recruiting and performance. Most relevant during hiring seasons (typically spring/summer) and applicable across all sports programs within athletic departments.
+
+## Clear Problem Statement
+High coaching turnover rates in college athletics are undermining program stability, disrupting athlete development, and negatively impacting team performance and organizational success.
+
+## Why This Problem Matters
+### Impact on Organization
+Poor coaching management leads to decreased program competitiveness, reduced recruiting effectiveness, increased operational costs from constant hiring/training, damaged reputation affecting donations and enrollment, and potential NCAA compliance issues. Athletic departments lose institutional knowledge and continuity essential for long-term success.
+
+### Stakeholder Impact
+**Student-athletes** experience disrupted relationships, inconsistent training methods, and academic-athletic balance challenges. **Coaches** face job insecurity and limited career development. **Athletic directors** struggle with budget pressures and performance expectations. **Alumni and donors** lose confidence in program direction. **University administration** deals with negative publicity and reduced revenue potential.
+
+### Strategic Alignment
+Effective coaching management directly supports university goals of student success, competitive excellence, financial sustainability, and institutional reputation. Stable coaching leadership enhances recruitment, improves graduation rates, and generates positive community engagement - all critical to university strategic objectives and long-term viability.
+
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+- What evidence shows this problem exists?
+- How widespread is this problem?
+- What are the root causes?
+
+### For the Solution (Step 4)
+- What evidence supports our preferred solution?
+- Has this solution worked in similar contexts?
+- What are the potential risks and benefits?
+
+## References
+Alzen, J. L., Burkhardt, A., Diaz-Bilello, E., et al. (2021). Academic coaching and its relationship to student performance, retention, and credit completion. *Innovative Higher Education*, 46(2), 159-177. https://consensus.app/papers/academic-coaching-and-its-relationship-to-student-alzen-burkhardt/d85a0543df41590c87f21b0012ea82a4/
+
+Bettinger, E., & Baker, R. B. (2014). The effects of student coaching. *Educational Evaluation and Policy Analysis*, 36(1), 3-19. https://consensus.app/papers/the-effects-of-student-coaching-bettinger-baker/00514e2befdf56deafd71b8db9a986c4/
+
+Wang, J. (2025). Institutionalizing academic coaching: An empirical study of student retention at a Hispanic-serving institution. *Journal of College Student Retention: Research, Theory & Practice*. https://consensus.app/papers/institutionalizing-academic-coaching-an-empirical-study-wang/b3df244848dd577b8aa10a7426777c9a/
+
+---
+INSTRUCTIONS: 
+1. Replace all bracketed placeholders with your specific content
+2. Use GitHub Copilot to help with writing and organization
+3. Reference Module 2 content for framework guidance
+4. Save frequently and commit to GitHub

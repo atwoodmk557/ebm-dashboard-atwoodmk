@@ -1,0 +1,131 @@
+# Stakeholder Analysis
+# Identify and analyze all parties affected by your problem and solution
+
+## Internal Stakeholders
+
+### Senior Management (Athletic Directors & University Administration)
+- **Interest in Problem:** High coaching turnover damages program reputation, increases costs, disrupts recruiting, and affects donor confidence. Creates instability that impacts overall athletic department performance and university image.
+- **Interest in Solution:** Strong motivation to implement effective coaching management to ensure program stability, competitive success, and financial sustainability. Success enhances their leadership reputation.
+- **Influence Level:** High - Control hiring decisions, budgets, policies, and strategic direction
+- **Support Level:** Likely supporter - Problem directly impacts their success metrics and accountability
+
+### Middle Management (Associate ADs, Sport Supervisors, Support Staff Directors)
+- **Interest in Problem:** Coaching turnover creates operational disruptions, increased workload during transitions, and challenges in maintaining program continuity. Affects their ability to support programs effectively.
+- **Interest in Solution:** Would benefit from more stable coaching relationships and predictable program operations. May resist if solution requires significant process changes or additional responsibilities.
+- **Influence Level:** Medium - Influence daily operations and coach support but limited budget/policy authority
+- **Support Level:** Likely supporter - Solutions that improve operational stability align with their goals
+
+### Employees/Staff (Current Coaching Staff)
+- **Interest in Problem:** High turnover creates job insecurity, increased stress, and uncertain career progression. Constant staff changes disrupt team chemistry and working relationships.
+- **Interest in Solution:** Strong interest in job security, professional development, and supportive work environment. May be concerned about increased performance scrutiny or accountability measures.
+- **Influence Level:** Medium - Their satisfaction and performance directly impact retention success
+- **Support Level:** Likely supporter if solutions focus on support rather than surveillance
+
+### Other Internal Groups
+
+### Student-Athletes
+- **Interest in Problem:** Coaching turnover disrupts relationships, training consistency, playing systems, and academic-athletic balance. Creates uncertainty about playing time, development, and team culture.
+- **Interest in Solution:** Strong interest in coaching stability for consistent development, clear expectations, and strong mentor relationships. Concerned about solutions that might reduce coach accessibility.
+- **Influence Level:** Medium - Can influence coach retention through performance, satisfaction, and transfer decisions
+- **Support Level:** Likely supporter - Stability benefits their athletic and academic success
+
+### Recruiting Coordinators/Support Staff
+- **Interest in Problem:** Coaching changes disrupt recruiting relationships, damage program reputation with high school coaches, and create uncertainty for prospective athletes.
+- **Interest in Solution:** Need stable coaching staff to maintain recruiting momentum and relationships. May resist if solutions require additional documentation or reporting.
+- **Influence Level:** Low to Medium - Important for implementation success but limited decision-making authority  
+- **Support Level:** Likely supporter - Stability improves their effectiveness
+
+## External Stakeholders
+
+## External Stakeholders
+
+### Alumni/Donors/Boosters
+- **Interest in Problem:** Coaching instability threatens program success, reducing their return on investment and pride in the university. Poor performance affects their willingness to donate.
+- **Interest in Solution:** Strong support for effective coaching management that ensures competitive success and program prestige. May resist solutions that increase costs or reduce their influence.
+- **Influence Level:** High - Financial contributions significantly impact athletic department budgets and AD job security
+- **Support Level:** Likely supporter - if convinced solutions will improve performance and ROI
+- **Evidence Questions:** Do they agree coaching stability is the best investment? What alternative approaches do they prefer? What implementation risks concern them most?
+
+### Prospective Student-Athletes & Families
+- **Interest in Problem:** Coaching turnover creates uncertainty about program direction, development opportunities, and relationship stability during recruitment.
+- **Interest in Solution:** Need assurance of coaching stability for their athlete's development. May be skeptical of promises without proven track record.
+- **Influence Level:** Medium - Their recruitment decisions directly impact program success and coach evaluation
+- **Support Level:** Neutral to supporter - depends on credibility of solution
+- **Evidence Questions:** Do they view coaching stability as a primary factor? What alternative program attributes matter more? How would they assess solution effectiveness?
+
+### Conference Officials/NCAA
+- **Interest in Problem:** Excessive coaching turnover may indicate compliance issues, financial instability, or poor governance within athletic programs.
+- **Interest in Solution:** Support solutions that promote program stability and compliance, but concerned about maintaining competitive balance and regulatory oversight.
+- **Influence Level:** High - Regulatory authority over athletic departments and ability to impose sanctions
+- **Support Level:** Likely supporter - if solutions align with governance standards
+- **Evidence Questions:** Do they see coaching management as a governance issue? What regulatory risks do current practices create? What alternative oversight mechanisms exist?
+
+### Media/Public
+- **Interest in Problem:** Coaching changes generate news content but constant turnover reflects poorly on university management and creates negative publicity.
+- **Interest in Solution:** Interested in transparent, effective solutions that improve program stability and provide positive storylines.
+- **Influence Level:** Medium - Public perception influences recruitment, donations, and administrative pressure
+- **Support Level:** Neutral - will support if solution demonstrates clear results
+- **Evidence Questions:** Do they view this as a systemic management problem? What solutions would generate positive coverage? What unintended consequences concern them?
+
+### Hidden Stakeholders
+
+### High School Coaches/Club Directors
+- **Interest in Problem:** Coaching turnover disrupts recruiting relationships and creates uncertainty about program stability for their athletes.
+- **Interest in Solution:** Need reliable coaching contacts and program stability to recommend to their athletes.
+- **Influence Level:** Medium - Control access to top recruits and can influence recruiting success
+- **Support Level:** Likely supporter - stability benefits their athlete placement success
+
+### University Faculty/Academic Administrators  
+- **Interest in Problem:** Coaching instability may affect student-athlete academic performance and university academic reputation.
+- **Interest in Solution:** Support solutions that prioritize academic success and don't compromise educational mission.
+- **Influence Level:** Medium - Can influence athletic department policies through university governance
+- **Support Level:** Supporter if solution emphasizes academic-athletic balance
+
+### Current/Former Players (Post-graduation)
+- **Interest in Problem:** Coaching changes affect their connection to the program and legacy.
+- **Interest in Solution:** Want program stability to maintain their achievements' value and ongoing relationships.
+- **Influence Level:** Low to Medium - Influence through alumni networks and testimonials
+- **Support Level:** Likely supporter - program stability protects their investment and memories
+
+## Stakeholder Engagement Strategy
+
+### High Influence, High Interest (Manage Closely)
+- **Athletic Directors & University Administration**: Regular briefings, involve in solution design, address budget/performance concerns
+- **Alumni/Donors/Boosters**: Demonstrate ROI, provide progress updates, ensure solutions align with their program expectations
+
+### High Influence, Low Interest (Keep Satisfied)
+- **Conference Officials/NCAA**: Ensure compliance, provide documentation, minimal disruption to current relationships
+- **University Faculty/Academic Administrators**: Focus on academic benefits, emphasize student-athlete success outcomes
+
+### Low Influence, High Interest (Keep Informed)
+- **Student-Athletes**: Regular communication about changes, feedback opportunities, transparency about timeline
+- **Current Coaching Staff**: Professional development opportunities, clear expectations, support during transitions
+
+### Low Influence, Low Interest (Monitor)
+- **Media/Public**: Respond to inquiries, provide updates when appropriate, avoid over-communication
+- **Former Players**: Occasional updates through alumni networks, leverage for positive testimonials
+
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+**Priority 1 (Most Accessible)**: Student-athletes, current coaching staff, recruiting coordinators
+**Priority 2 (Moderate Access)**: Associate ADs, support staff directors, high school coaches
+**Priority 3 (Challenging Access)**: Athletic directors, alumni/donors, university administration
+
+### What Questions to Ask
+**Problem Validation**: How serious is coaching turnover? What causes it? What are the consequences?
+**Solution Assessment**: What solutions would work? What are implementation barriers? What alternatives exist?
+**Support Evaluation**: Would you support proposed solutions? What concerns do you have? What would ensure success?
+
+### How to Engage
+**Formal Interviews**: Athletic directors, university administration (schedule through proper channels)
+**Surveys**: Student-athletes, coaching staff (anonymous to encourage honesty)
+**Informal Conversations**: Fellow athletes, support staff (leverage existing relationships)
+**Secondary Sources**: Media reports, donor publications, university documents, conference reports
+
+---
+INSTRUCTIONS:
+1. Be specific about each stakeholder group's interests and influence
+2. Consider both obvious and hidden stakeholders
+3. Think about implementation challenges from stakeholder perspectives
+4. This analysis will guide your stakeholder evidence collection

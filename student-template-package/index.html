@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My EBM Dashboard | MGT357 - Fall 2025</title>
+    <style>
+        /* === CSS CUSTOM PROPERTIES === */
+        :root {
+            --primary-gradient: linear-gradient(135deg, #b19cd9 0%, #c9b3e8 100%);
+            --tab-active: #9c88c4;
+            --tab-inactive: #b8a9c9;
+            --step-green: #a594c7;
+            --step-blue: #8e7cc3;
+            --border-radius: 15px;
+            --transition-speed: 0.3s;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--primary-gradient);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #9c88c4, #f4f1a4);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .student-info {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 10px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            font-size: 0.9em;
+        }
+
+        /* === SIMPLE TAB SYSTEM === */
+        .tab-nav {
+            display: flex;
+            background: #ecf0f1;
+            border-bottom: 3px solid #bdc3c7;
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            background: var(--tab-inactive);
+            color: white;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: all var(--transition-speed);
+            border: none;
+            border-right: 2px solid white;
+        }
+
+        .tab-button:last-child {
+            border-right: none;
+        }
+
+        .tab-button:hover {
+            background: #7f8c8d;
+            transform: translateY(-2px);
+        }
+
+        .tab-button.active {
+            background: var(--tab-active);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(46, 204, 113, 0.3);
+        }
+
+        .tab-content {
+            position: relative;
+            min-height: 500px;
+        }
+
+        .tab-panel {
+            display: none;
+            padding: 40px;
+            animation: fadeIn 0.3s ease-in;
+        }
+
+        .tab-panel.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateX(20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+
+        /* === FLOWCHART STYLING === */
+        .flowchart-step {
+            background: var(--step-green);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 25px;
+            margin: 15px 0;
+            font-weight: bold;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(39, 174, 96, 0.3);
+        }
+
+        .decision-diamond {
+            background: var(--step-blue);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            margin: 15px 0;
+            text-align: center;
+            position: relative;
+            transform: rotate(45deg);
+        }
+
+        .decision-diamond .text {
+            transform: rotate(-45deg);
+            font-weight: bold;
+        }
+
+        .content-file-preview {
+            background: #f8f9fa;
+            border: 2px dashed #bdc3c7;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .content-file-preview:hover {
+            border-color: #3498db;
+            background: #f0f8ff;
+        }
+
+        .content-file-preview h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .edit-notice {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-size: 0.8em;
+        }
+
+        .evidence-type {
+            display: inline-block;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 20px;
+            color: white;
+            font-weight: bold;
+        }
+
+        .scientific { background: #e74c3c; }
+        .practitioner { background: #f39c12; }
+        .organizational { background: #27ae60; }
+        .stakeholder { background: #9b59b6; }
+
+        .evidence-section {
+            margin: 40px 0;
+            padding: 25px;
+            border-left: 5px solid #ddd;
+            background: #fafafa;
+            border-radius: 10px;
+        }
+
+        .evidence-section h3 {
+            margin-top: 0;
+            margin-bottom: 20px;
+            padding: 10px 20px;
+            border-radius: 25px;
+            display: inline-block;
+        }
+
+        .evidence-section .content-file-preview {
+            margin: 15px 0;
+        }
+
+        .progress-indicator {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            margin: 0;
+            border-bottom: 3px solid #dee2e6;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .progress-step {
+            flex: 1;
+            text-align: center;
+            padding: 12px 8px;
+            margin: 0 5px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 0.9em;
+            transition: all var(--transition-speed);
+            position: relative;
+            cursor: pointer;
+        }
+
+        .progress-step.completed {
+            background: linear-gradient(135deg, #a594c7, #b19cd9);
+            color: white;
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(165, 148, 199, 0.3);
+        }
+
+        .progress-step.active {
+            background: linear-gradient(135deg, #8e7cc3, #a594c7);
+            color: white;
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(142, 124, 195, 0.3);
+        }
+
+        .progress-step.pending {
+            background: #bdc3c7;
+            color: white;
+        }
+
+        .progress-step::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            right: -15px;
+            width: 0;
+            height: 0;
+            border-left: 10px solid;
+            border-top: 10px solid transparent;
+            border-bottom: 10px solid transparent;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+
+        .progress-step.completed::after {
+            border-left-color: #a594c7;
+        }
+
+        .progress-step.active::after {
+            border-left-color: #8e7cc3;
+        }
+
+        .progress-step.pending::after {
+            border-left-color: #bdc3c7;
+        }
+
+        .progress-step:last-child::after {
+            display: none;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #9c88c4, #b19cd9);
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: bold;
+            margin: 10px 5px;
+            transition: all var(--transition-speed);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(156, 136, 196, 0.4);
+        }
+
+        .milestone-tracker {
+            background: #fefce8;
+            border-left: 4px solid #9c88c4;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+
+        .milestone-tracker h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+
+        .checklist li {
+            padding: 5px 0;
+            color: #555;
+        }
+
+        .checklist li:before {
+            content: "☐ ";
+            color: #3498db;
+            font-weight: bold;
+        }
+
+        /* === NEW ORGANIZATION STYLES === */
+        .completed-section {
+            background: linear-gradient(135deg, #f0f4f8, #e8f5e8);
+            border: 2px solid #a594c7;
+            border-radius: 15px;
+            padding: 25px;
+            margin: 20px 0;
+            box-shadow: 0 4px 15px rgba(165, 148, 199, 0.2);
+        }
+
+        .completed-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #a594c7;
+        }
+
+        .completion-badge {
+            background: linear-gradient(135deg, #a594c7, #b19cd9);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+
+        .summary-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-left: 4px solid #a594c7;
+        }
+
+        .summary-card h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .summary-card .key-points {
+            background: #fefce8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .key-points ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .key-points li {
+            margin: 5px 0;
+            color: #2c3e50;
+        }
+
+        .next-steps {
+            background: linear-gradient(135deg, #f8f9fa, #fefce8);
+            border: 2px dashed #b8a9c9;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .evidence-preview {
+            background: #fafafa;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 10px 0;
+            border: 1px solid #e0e0e0;
+        }
+
+        .evidence-preview h5 {
+            color: #a594c7;
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 My Evidence-Based Management Dashboard</h1>
+            <p>MGT357 - Fall 2025 | Portfolio Project</p>
+            
+            <div class="student-info">
+                <div><strong>Student:</strong> Maria Atwood</div>
+                <div><strong>Problem Focus:</strong> Athletic Coaching Management</div>
+                <div><strong>Repository:</strong> <a href="https://github.com/atwoodmk557/ebm-dashboard-atwoodmk" style="color: #74b9ff;" target="_blank">GitHub Repository</a></div>
+                <div><strong>Live Dashboard:</strong> <a href="https://atwoodmk557.github.io/ebm-dashboard-atwoodmk/" style="color: #74b9ff;" target="_blank">GitHub Pages</a></div>
+                <div><strong>Last Updated:</strong> September 21, 2025</div>
+            </div>
+        </div>
+
+        <!-- Persistent Progress Indicator -->
+        <div class="progress-indicator">
+            <div class="progress-step completed" onclick="showTab(1)">🎯 Framework</div>
+            <div class="progress-step active" onclick="showTab(2)">🔍 Evidence</div>
+            <div class="progress-step pending" onclick="showTab(3)">⚖️ Synthesis</div>
+            <div class="progress-step pending" onclick="showTab(4)">🚀 Application</div>
+            <div class="progress-step pending" onclick="showTab(5)">📊 Assessment</div>
+        </div>
+
+        <div class="tab-container">
+            <!-- Tab Navigation -->
+            <div class="tab-nav">
+                <button class="tab-button active" onclick="showTab(1)">🎯 Problem & Solution Framework</button>
+                <button class="tab-button" onclick="showTab(2)">🔍 Evidence Hub</button>
+                <button class="tab-button" onclick="showTab(3)">⚖️ Aggregation</button>
+                <button class="tab-button" onclick="showTab(4)">🚀 Application</button>
+                <button class="tab-button" onclick="showTab(5)">📊 Assessment</button>
+            </div>
+
+            <!-- Tab Content -->
+            <div class="tab-content">
+                <!-- TAB 1: Problem & Solution Framework -->
+                <div class="tab-panel active" id="tab-1">
+                    <div class="completed-header">
+                        <h2>🎯 ASK Phase: Problem & Solution Framework</h2>
+                        <div class="completion-badge">✅ COMPLETED</div>
+                    </div>
+                    
+                    <div class="milestone-tracker">
+                        <h4>📋 Milestone 1 Status - READY FOR SUBMISSION! 🎉</h4>
+                        <ul class="checklist">
+                            <li style="color: #27ae60;">✅ GitHub repository created and dashboard running</li>
+                            <li style="color: #27ae60;">✅ Problem Definition completed using frameworks</li>
+                            <li style="color: #27ae60;">✅ Stakeholder Analysis documented</li>
+                            <li style="color: #27ae60;">✅ Success Criteria clearly defined</li>
+                            <li style="color: #f39c12;">🔄 Progress tracker updated</li>
+                        </ul>
+                    </div>
+
+                    <div class="completed-section">
+                        <h3>📋 Completed Work Summary</h3>
+                        
+                        <div class="summary-card">
+                            <h4>🎯 Problem Definition</h4>
+                            <p><strong>Management Problem:</strong> Athletic departments are failing to effectively hire, support and retain coaching staff, leading to frequent turnover that disrupts program stability and performance.</p>
+                            <div class="key-points">
+                                <strong>Key Framework Elements:</strong>
+                                <ul>
+                                    <li><strong>X → Y Framework:</strong> Current problems → Desired stable coaching management</li>
+                                    <li><strong>PICOC:</strong> Population (athletes, coaches, ADs), Intervention (retention strategies), Context (NCAA D1/D2)</li>
+                                    <li><strong>Evidence Base:</strong> Inglis & Danylchuk retention factors research</li>
+                                </ul>
+                            </div>
+                            <button class="btn" onclick="openContentFile('ask-problem-definition.txt')" style="margin-top: 10px;">📝 View Full Definition</button>
+                        </div>
+
+                        <div class="summary-card">
+                            <h4>👥 Stakeholder Analysis</h4>
+                            <p><strong>Comprehensive Mapping:</strong> Internal, external, and hidden stakeholders identified with engagement strategies.</p>
+                            <div class="key-points">
+                                <strong>Stakeholder Categories:</strong>
+                                <ul>
+                                    <li><strong>Internal:</strong> Athletic Directors, Coaches, Student-Athletes, Support Staff</li>
+                                    <li><strong>External:</strong> Alumni/Donors, Prospective Athletes, Conference Officials, Media</li>
+                                    <li><strong>Hidden:</strong> High School Coaches, University Faculty, Former Players</li>
+                                    <li><strong>Evidence Strategy:</strong> High-influence stakeholders prioritized for data collection</li>
+                                </ul>
+                            </div>
+                            <button class="btn" onclick="openContentFile('ask-stakeholder-analysis.txt')" style="margin-top: 10px;">📝 View Full Analysis</button>
+                        </div>
+
+                        <div class="summary-card">
+                            <h4>📊 Success Criteria</h4>
+                            <p><strong>Evidence-Based Metrics:</strong> SMART criteria based on research findings for measuring coaching management effectiveness.</p>
+                            <div class="key-points">
+                                <strong>Key Success Measures:</strong>
+                                <ul>
+                                    <li><strong>Turnover Reduction:</strong> 25% reduction in coaching turnover within 3 years</li>
+                                    <li><strong>Work Balance:</strong> 4.0+ satisfaction scores on retention factors</li>
+                                    <li><strong>Recognition Systems:</strong> 80% coach participation in support programs</li>
+                                    <li><strong>Research Foundation:</strong> Based on Inglis & Danylchuk retention study</li>
+                                </ul>
+                            </div>
+                            <button class="btn" onclick="openContentFile('ask-success-criteria.txt')" style="margin-top: 10px;">📝 View Full Criteria</button>
+                        </div>
+                    </div>
+
+                    <div class="evidence-preview">
+                        <h5>🔬 Research Foundation</h5>
+                        <p><strong>Key Study:</strong> Inglis & Danylchuk (1996) - "Understanding Retention Factors in Coaching and Athletic Management Positions"</p>
+                        <p><strong>Three Evidence-Based Retention Factors:</strong> Work Balance & Conditions, Recognition & Collegial Support, Inclusivity</p>
+                    </div>
+
+                    <div class="next-steps">
+                        <h3>🚀 Next Phase: Evidence Collection</h3>
+                        <p>ASK phase complete! Ready to move to <strong>ACQUIRE</strong> phase - gathering evidence from four sources to support problem and solution.</p>
+                        <button class="btn" onclick="showTab(2)">→ Start Evidence Hub</button>
+                        <button class="btn" onclick="window.open('https://consensus.app')" style="background: linear-gradient(135deg, #e74c3c, #c0392b);">🔬 Continue with Consensus</button>
+                    </div>
+                </div>
+
+                <!-- TAB 2: Evidence Hub -->
+                <div class="tab-panel" id="tab-2">
+                    <h2>🔍 Evidence Hub</h2>
+                    <p><strong>Purpose:</strong> Systematically collect and critically evaluate evidence from all four sources.</p>
+
+                    <div class="milestone-tracker">
+                        <h4>📋 Milestone 2 & 3 Checkpoints</h4>
+                        <ul class="checklist">
+                            <li><strong>Milestone 2 (Week 6):</strong> Scientific & Practitioner Evidence Complete</li>
+                            <li><strong>Milestone 3 (Week 9):</strong> Organizational & Stakeholder Evidence Complete</li>
+                            <li>All acquisition methods documented</li>
+                            <li>Evidence sources collected and organized</li>
+                            <li>Quality appraisals completed for each evidence type</li>
+                        </ul>
+                    </div>
+
+                    <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                        <h4>🎯 Evidence Collection Goals:</h4>
+                        <ul>
+                            <li><strong>For Step 2:</strong> What evidence supports our assumed problem?</li>
+                            <li><strong>For Step 4:</strong> What evidence supports our preferred solution?</li>
+                        </ul>
+                    </div>
+
+                    <!-- Scientific Evidence Section -->
+                    <div class="evidence-section">
+                        <h3 class="evidence-type scientific">🔬 Scientific Evidence</h3>
+                        
+                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-methods.txt')">
+                            <h4>📝 content/evidence-scientific-methods.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Document your search strategy, databases used, keywords, and selection criteria]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-sources.txt')">
+                            <h4>📝 content/evidence-scientific-sources.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[List and summarize the research studies, meta-analyses, and systematic reviews you found]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-appraisal.txt')">
+                            <h4>📝 content/evidence-scientific-appraisal.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Evaluate the quality, reliability, and relevance of your scientific evidence]</pre>
+                        </div>
+                    </div>
+
+                    <!-- Practitioner Evidence Section -->
+                    <div class="evidence-section">
+                        <h3 class="evidence-type practitioner">👔 Practitioner Evidence</h3>
+                        
+                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-methods.txt')">
+                            <h4>📝 content/evidence-practitioner-methods.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Document how you collected practitioner insights, interviews, case studies]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-sources.txt')">
+                            <h4>📝 content/evidence-practitioner-sources.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Summarize expert interviews, case studies, and professional experience]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-appraisal.txt')">
+                            <h4>📝 content/evidence-practitioner-appraisal.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Assess the credibility and relevance of practitioner evidence]</pre>
+                        </div>
+                    </div>
+
+                    <!-- Organizational Evidence Section -->
+                    <div class="evidence-section">
+                        <h3 class="evidence-type organizational">🏢 Organizational Evidence</h3>
+                        
+                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-methods.txt')">
+                            <h4>📝 content/evidence-organizational-methods.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Document internal data collection methods and sources]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-sources.txt')">
+                            <h4>📝 content/evidence-organizational-sources.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Present internal data, KPIs, reports, and organizational studies]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-appraisal.txt')">
+                            <h4>📝 content/evidence-organizational-appraisal.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Evaluate the quality and limitations of organizational data]</pre>
+                        </div>
+                    </div>
+
+                    <!-- Stakeholder Evidence Section -->
+                    <div class="evidence-section">
+                        <h3 class="evidence-type stakeholder">👥 Stakeholder Evidence</h3>
+                        
+                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-methods.txt')">
+                            <h4>📝 content/evidence-stakeholder-methods.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Document stakeholder engagement methods, surveys, interviews]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-sources.txt')">
+                            <h4>📝 content/evidence-stakeholder-sources.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Summarize stakeholder feedback, surveys, and input]</pre>
+                        </div>
+
+                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-appraisal.txt')">
+                            <h4>📝 content/evidence-stakeholder-appraisal.txt</h4>
+                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <pre>[Assess the representativeness and reliability of stakeholder evidence]</pre>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TAB 3: Aggregation -->
+                <div class="tab-panel" id="tab-3">
+                    <h2>⚖️ Evidence Aggregation</h2>
+                    <p><strong>Synthesis Process:</strong> Weigh and combine evidence from multiple sources to form conclusions.</p>
+
+                    <div class="milestone-tracker">
+                        <h4>📋 Milestone 4 Checkpoint (Week 12)</h4>
+                        <ul class="checklist">
+                            <li>Evidence synthesis across all four types completed</li>
+                            <li>Solution design based on evidence analysis</li>
+                            <li>Implementation plan developed</li>
+                            <li>Risk assessment and mitigation strategies</li>
+                        </ul>
+                    </div>
+
+                    <div class="content-file-preview" onclick="openContentFile('synthesis-integration.txt')">
+                        <h4>📝 content/synthesis-integration.txt</h4>
+                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <pre id="evidence-synthesis-content">[Synthesize evidence from all four sources to reach evidence-based conclusions]
+
+Document areas of agreement, disagreement, and evidence quality.
+Weight the evidence and form recommendations.</pre>
+                    </div>
+                </div>
+
+                <!-- TAB 4: Application -->
+                <div class="tab-panel" id="tab-4">
+                    <h2>🚀 Application</h2>
+                    <p><strong>Implementation Planning:</strong> Put the evidence-based solution into practice.</p>
+
+                    <div class="content-file-preview" onclick="openContentFile('application-implementation.txt')">
+                        <h4>📝 content/application-implementation.txt</h4>
+                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <pre>[Create detailed implementation plan with timeline, resources, and stakeholder communication]</pre>
+                    </div>
+                </div>
+
+                <!-- TAB 5: Assessment -->
+                <div class="tab-panel" id="tab-5">
+                    <h2>📊 Assessment</h2>
+                    <p><strong>Continuous Improvement:</strong> Evaluate results and refine the approach.</p>
+
+                    <div class="milestone-tracker">
+                        <h4>📋 Final Submission Checklist (Week 16)</h4>
+                        <ul class="checklist">
+                            <li>Assessment framework completed</li>
+                            <li>Lessons learned documented</li>
+                            <li>Dashboard polished for portfolio</li>
+                            <li>Peer review feedback incorporated</li>
+                            <li>Final reflection on EBM process</li>
+                        </ul>
+                    </div>
+
+                    <div class="content-file-preview" onclick="openContentFile('assessment-monitoring.txt')">
+                        <h4>📝 content/assessment-monitoring.txt</h4>
+                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <pre>[Evaluate the effectiveness of your EBM process and solution]</pre>
+                    </div>
+
+                    <div style="text-align: center; margin-top: 30px;">
+                        <h3>🎉 EBM Cycle Complete!</h3>
+                        <p>Congratulations! You've built a professional Evidence-Based Management dashboard.</p>
+                        <div>
+                            <button class="btn" onclick="window.open('PROJECT_TRACKER.md')">📊 View Project Tracker</button>
+                            <button class="btn" onclick="showTab(1)">↻ Review Complete Process</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Content file loading functionality
+        function loadContentFiles() {
+            // This function would load content from .txt files
+            // For now, it shows placeholder content
+            console.log('Content files would be loaded here');
+        }
+
+        // Function to simulate opening content files in VS Code
+        function openContentFile(filename) {
+            alert(`In VS Code, you would open: content/${filename}\n\nThis is where you'll edit your content. Use GitHub Copilot to help with writing and organization!`);
+        }
+
+        // Tab Navigation Functionality
+        function showTab(tabNumber) {
+            // Hide all tab panels
+            const panels = document.querySelectorAll('.tab-panel');
+            panels.forEach(panel => panel.classList.remove('active'));
+            
+            // Remove active class from all tab buttons
+            const buttons = document.querySelectorAll('.tab-button');
+            buttons.forEach(button => button.classList.remove('active'));
+            
+            // Show the selected tab panel
+            document.getElementById(`tab-${tabNumber}`).classList.add('active');
+            
+            // Add active class to the clicked button
+            buttons[tabNumber - 1].classList.add('active');
+            
+            // Update progress indicator
+            updateProgressIndicator(tabNumber);
+        }
+        
+        // Update Progress Indicator based on current tab
+        function updateProgressIndicator(currentTab) {
+            const progressSteps = document.querySelectorAll('.progress-step');
+            
+            progressSteps.forEach((step, index) => {
+                step.classList.remove('completed', 'active', 'pending');
+                
+                if (index + 1 < currentTab) {
+                    step.classList.add('completed');
+                } else if (index + 1 === currentTab) {
+                    step.classList.add('active');
+                } else {
+                    step.classList.add('pending');
+                }
+            });
+        }
+
+        // Initialize dashboard
+        document.addEventListener('DOMContentLoaded', function() {
+            loadContentFiles();
+            updateProgressIndicator(1);
+        });
+    </script>
+    <script src="content-loader.js"></script>
+</body>
+</html>
