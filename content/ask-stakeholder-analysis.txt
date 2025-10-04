@@ -4,10 +4,10 @@
 ## Internal Stakeholders
 
 ### Senior Management (Athletic Directors & University Administration)
-- **Interest in Problem:** High coaching turnover damages program reputation, increases costs, disrupts recruiting, and affects donor confidence. Creates instability that impacts overall athletic department performance and university image.
-- **Interest in Solution:** Strong motivation to implement effective coaching management to ensure program stability, competitive success, and financial sustainability. Success enhances their leadership reputation.
-- **Influence Level:** High - Control hiring decisions, budgets, policies, and strategic direction
-- **Support Level:** Likely supporter - Problem directly impacts their success metrics and accountability
+- **Interest in Problem:** High coaching turnover in Division I public university revenue sports damages program reputation, increases costs, disrupts recruiting, and affects donor confidence. State funding pressures and budget constraints make turnover particularly costly, while public accountability requirements demand stable program performance.
+- **Interest in Solution:** Strong motivation to implement coaching retention strategies (multi-year contracts, performance transparency, peer mentorship) within state budget limitations and regulatory compliance. Success enhances their leadership reputation and maximizes return on state funding investments.
+- **Influence Level:** High - Control hiring decisions, budgets, policies, and strategic direction, but must operate within state regulations and funding constraints
+- **Support Level:** Likely strong supporter - Problem directly impacts their success metrics, public accountability, and efficient use of state resources
 
 ### Middle Management (Associate ADs, Sport Supervisors, Support Staff Directors)
 - **Interest in Problem:** Coaching turnover creates operational disruptions, increased workload during transitions, and challenges in maintaining program continuity. Affects their ability to support programs effectively.
@@ -23,11 +23,11 @@
 
 ### Other Internal Groups
 
-### Student-Athletes
-- **Interest in Problem:** Coaching turnover disrupts relationships, training consistency, playing systems, and academic-athletic balance. Creates uncertainty about playing time, development, and team culture.
-- **Interest in Solution:** Strong interest in coaching stability for consistent development, clear expectations, and strong mentor relationships. Concerned about solutions that might reduce coach accessibility.
-- **Influence Level:** Medium - Can influence coach retention through performance, satisfaction, and transfer decisions
-- **Support Level:** Likely supporter - Stability benefits their athletic and academic success
+### Student-Athletes (Revenue Sports)
+- **Interest in Problem:** Revenue sport athletes experience coaching turnover that disrupts relationships, training consistency, playing systems, and team chemistry. High-profile sports face additional media scrutiny and performance pressure during coaching transitions.
+- **Interest in Solution:** Strong interest in coaching stability through multi-year contracts and clear performance expectations for consistent development and team culture. Value transparent evaluation processes that protect both coach and athlete interests.
+- **Influence Level:** Medium - Performance, satisfaction, and transfer portal decisions can influence coach retention and program reputation
+- **Support Level:** Likely supporter - Stability benefits their athletic development, team success, and potential professional prospects
 
 ### Recruiting Coordinators/Support Staff
 - **Interest in Problem:** Coaching changes disrupt recruiting relationships, damage program reputation with high school coaches, and create uncertainty for prospective athletes.
@@ -40,10 +40,10 @@
 ## External Stakeholders
 
 ### Alumni/Donors/Boosters
-- **Interest in Problem:** Coaching instability threatens program success, reducing their return on investment and pride in the university. Poor performance affects their willingness to donate.
-- **Interest in Solution:** Strong support for effective coaching management that ensures competitive success and program prestige. May resist solutions that increase costs or reduce their influence.
-- **Influence Level:** High - Financial contributions significantly impact athletic department budgets and AD job security
-- **Support Level:** Likely supporter - if convinced solutions will improve performance and ROI
+- **Interest in Problem:** Coaching instability in Division I public university revenue sports threatens program success, reducing their return on investment and pride in the university. Poor performance affects their willingness to donate, especially when state funding limitations require private support.
+- **Interest in Solution:** Strong support for coaching retention strategies (multi-year contracts, performance transparency) that ensure competitive success and program prestige. May resist solutions that increase costs without clear ROI, particularly given public university budget constraints.
+- **Influence Level:** High - Financial contributions significantly impact athletic department budgets and AD job security, especially critical for public universities with limited state funding
+- **Support Level:** Likely supporter - if convinced solutions will improve performance and maximize value of their investments
 - **Evidence Questions:** Do they agree coaching stability is the best investment? What alternative approaches do they prefer? What implementation risks concern them most?
 
 ### Prospective Student-Athletes & Families
