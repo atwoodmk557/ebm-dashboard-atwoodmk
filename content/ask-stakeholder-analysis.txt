@@ -1,5 +1,4 @@
 # Stakeholder Analysis
-# Identify and analyze all parties affected by your problem and solution
 
 ## Internal Stakeholders
 
@@ -21,21 +20,11 @@
 - **Influence Level:** Medium - Their satisfaction and performance directly impact retention success
 - **Support Level:** Likely supporter if solutions focus on support rather than surveillance
 
-### Other Internal Groups
-
 ### Student-Athletes (Revenue Sports)
 - **Interest in Problem:** Revenue sport athletes experience coaching turnover that disrupts relationships, training consistency, playing systems, and team chemistry. High-profile sports face additional media scrutiny and performance pressure during coaching transitions.
 - **Interest in Solution:** Strong interest in coaching stability through multi-year contracts and clear performance expectations for consistent development and team culture. Value transparent evaluation processes that protect both coach and athlete interests.
 - **Influence Level:** Medium - Performance, satisfaction, and transfer portal decisions can influence coach retention and program reputation
 - **Support Level:** Likely supporter - Stability benefits their athletic development, team success, and potential professional prospects
-
-### Recruiting Coordinators/Support Staff
-- **Interest in Problem:** Coaching changes disrupt recruiting relationships, damage program reputation with high school coaches, and create uncertainty for prospective athletes.
-- **Interest in Solution:** Need stable coaching staff to maintain recruiting momentum and relationships. May resist if solutions require additional documentation or reporting.
-- **Influence Level:** Low to Medium - Important for implementation success but limited decision-making authority  
-- **Support Level:** Likely supporter - Stability improves their effectiveness
-
-## External Stakeholders
 
 ## External Stakeholders
 
@@ -67,7 +56,7 @@
 - **Support Level:** Neutral - will support if solution demonstrates clear results
 - **Evidence Questions:** Do they view this as a systemic management problem? What solutions would generate positive coverage? What unintended consequences concern them?
 
-### Hidden Stakeholders
+##Hidden Stakeholders
 
 ### High School Coaches/Club Directors
 - **Interest in Problem:** Coaching turnover disrupts recruiting relationships and creates uncertainty about program stability for their athletes.
@@ -123,9 +112,4 @@
 **Informal Conversations**: Fellow athletes, support staff (leverage existing relationships)
 **Secondary Sources**: Media reports, donor publications, university documents, conference reports
 
----
-INSTRUCTIONS:
-1. Be specific about each stakeholder group's interests and influence
-2. Consider both obvious and hidden stakeholders
-3. Think about implementation challenges from stakeholder perspectives
-4. This analysis will guide your stakeholder evidence collection
+

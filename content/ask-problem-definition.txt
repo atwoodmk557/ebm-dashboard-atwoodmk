@@ -1,5 +1,4 @@
-# Problem Definition Framework
-# Use this template to clearly define your management problem
+# Problem Definition
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
