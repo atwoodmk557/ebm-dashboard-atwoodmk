@@ -7,11 +7,11 @@
     <style>
         /* === CSS CUSTOM PROPERTIES === */
         :root {
-            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            --tab-active: #2ecc71;
-            --tab-inactive: #95a5a6;
-            --step-green: #27ae60;
-            --step-blue: #3498db;
+            --primary-gradient: linear-gradient(135deg, #f6f2d4 0%, #d4a5d8 100%);
+            --tab-active: #c8a8e9;
+            --tab-inactive: #f0e8c4;
+            --step-green: #b58ce0;
+            --step-blue: #e6d485;
             --border-radius: 15px;
             --transition-speed: 0.3s;
         }
@@ -30,7 +30,7 @@
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             background: white;
             border-radius: var(--border-radius);
@@ -39,7 +39,7 @@
         }
 
         .header {
-            background: linear-gradient(135deg, #2c3e50, #3498db);
+            background: linear-gradient(135deg, #c8a8e9, #b58ce0);
             color: white;
             padding: 30px;
             text-align: center;
@@ -62,8 +62,14 @@
             border-radius: 10px;
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 10px;
+            gap: 15px;
             font-size: 0.9em;
+            line-height: 1.4;
+        }
+
+        .student-info div {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
 
         /* === SIMPLE TAB SYSTEM === */
@@ -79,7 +85,7 @@
             text-align: center;
             cursor: pointer;
             background: var(--tab-inactive);
-            color: white;
+            color: #5d4e75;
             font-weight: bold;
             font-size: 1.1em;
             transition: all var(--transition-speed);
@@ -92,14 +98,15 @@
         }
 
         .tab-button:hover {
-            background: #7f8c8d;
+            background: #e0d4e8;
             transform: translateY(-2px);
         }
 
         .tab-button.active {
             background: var(--tab-active);
+            color: white;
             transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(46, 204, 113, 0.3);
+            box-shadow: 0 5px 15px rgba(200, 168, 233, 0.3);
         }
 
         .tab-content {
@@ -156,15 +163,28 @@
             border-radius: 10px;
             padding: 20px;
             margin: 20px 0;
-            font-family: 'Courier New', monospace;
-            font-size: 0.9em;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.95em;
             cursor: pointer;
             transition: all 0.3s ease;
+            line-height: 1.6;
+        }
+
+        .content-file-preview pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.9em;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
         }
 
         .content-file-preview:hover {
-            border-color: #3498db;
-            background: #f0f8ff;
+            border-color: #c8a8e9;
+            background: #faf8ff;
         }
 
         .content-file-preview h4 {
@@ -346,10 +366,10 @@
             <p>MGT357 - Fall 2025 | Portfolio Project</p>
             
             <div class="student-info">
-                <div><strong>Student:</strong> [Dr. Peterson]</div>
-                <div><strong>Problem Focus:</strong> [Leadership Training]</div>
-                <div><strong>Repository:</strong> <a href="#" style="color: #74b9ff;">[Your GitHub Link]</a></div>
-                <div><strong>Last Updated:</strong> [16 Sep 2025]</div>
+                <div><strong>Student:</strong> Maria Atwood</div>
+                <div><strong>Problem Focus:</strong> Coaching Turnover in Division I Public University Revenue Sports</div>
+                <div><strong>Repository:</strong> <a href="https://github.com/atwoodmk557/ebm-dashboard-atwoodmk" style="color: #74b9ff;">github.com/atwoodmk557/ebm-dashboard-atwoodmk</a></div>
+                <div><strong>Last Updated:</strong> October 4, 2025</div>
             </div>
         </div>
 
