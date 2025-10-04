@@ -120,36 +120,25 @@
 ## Timeline for Assessment
 
 ### Short-term (30-90 days)
-- **Policy Implementation**: Launch formal retention programs and communication protocols
-- **Baseline Data Collection**: Complete initial coach satisfaction surveys and establish current turnover metrics
-- **Early Engagement**: Achieve 60% participation in new mentorship and recognition programs
+[What should improve quickly?]
 
 ### Medium-term (3-6 months)
-- **Culture Indicators**: Measurable improvement in coach-administration communication frequency (target: monthly meetings)
-- **Satisfaction Trends**: Initial satisfaction score improvements of 0.5+ points on 5-point scale
-- **Process Efficiency**: Reduce time-to-fill vacant positions from 45-60 days to 30-40 days
+[What should improve over time?]
 
 ### Long-term (6-12 months)
-- **Turnover Reduction**: Achieve 15% reduction in voluntary coaching departures
-- **Program Performance**: Maintain or improve team performance metrics during stability transition
-- **Sustained Engagement**: 80% ongoing participation in retention programs with positive feedback
+[What are the ultimate outcomes?]
 
 ## Reporting Framework
+[How will progress be communicated to stakeholders?]
 
 ### Dashboard Metrics
-- **Monthly**: Turnover incidents, program participation rates, budget utilization
-- **Quarterly**: Satisfaction survey results, performance metrics, stakeholder feedback
-- **Annually**: Comprehensive turnover analysis, ROI calculations, program effectiveness review
+[Key metrics for ongoing monitoring]
 
 ### Regular Reports
-- **Monthly Briefings**: Athletic Director and senior staff updates on program progress
-- **Quarterly Reviews**: University administration reports highlighting key metrics and challenges
-- **Annual Assessment**: Comprehensive evaluation with recommendations for program adjustments
+[What will be reported and how often?]
 
 ### Milestone Reviews
-- **90-Day Check-in**: Initial implementation assessment and course corrections
-- **6-Month Evaluation**: Mid-program review with stakeholder feedback integration
-- **Annual Review**: Full program evaluation with decision on continuation and expansion
+[When will formal assessments occur?]
 
 ---
 INSTRUCTIONS:

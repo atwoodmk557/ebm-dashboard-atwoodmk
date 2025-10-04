@@ -77,9 +77,4 @@ Effective coaching retention directly supports Division I public university goal
 ## References
 Athletic Director U. (n.d.). Coaching carousel study. https://athleticdirectoru.com/articles/coaching-carousel-study/
 
----
-INSTRUCTIONS: 
-1. Replace all bracketed placeholders with your specific content
-2. Use GitHub Copilot to help with writing and organization
-3. Reference Module 2 content for framework guidance
-4. Save frequently and commit to GitHub
+
