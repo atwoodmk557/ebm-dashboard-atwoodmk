@@ -3,142 +3,315 @@
 
 ## SMART Success Criteria
 
-### Criterion 1: Reduced Coaching Staff Turnover Rate
-- **Specific:** Annual coaching staff turnover rate across all sports programs within the athletic department
-- **Measurable:** Percentage reduction in voluntary departures from baseline year (target: 25% reduction in turnover within 3 years)
-- **Achievable:** Realistic given that research shows retention factors can be addressed through management improvements
-- **Relevant:** Directly addresses the core problem of excessive coaching turnover disrupting program stability
-- **Time-bound:** Measured annually with 25% improvement target by Year 3, 15% improvement by Year 2
+### Criterion 1: Extended Average Coach Tenure
+- **Specific:** Average tenure length for head coaches in Division I public university revenue sports (football, basketball, baseball)
+- **Measurable:** Increase average coach tenure from current baseline of 3.7 years to 5+ years (target: 35% improvement)
+- **Achievable:** Realistic given that retention strategies (multi-year contracts, performance transparency) can address controllable factors affecting job security
+- **Relevant:** Directly addresses the core problem of short coaching tenure undermining program stability and team performance
+- **Time-bound:** Achieve 5+ year average tenure within 3 years of implementing retention strategies
 
-### Criterion 2: Improved Work Balance and Conditions (Research-Based)
-- **Specific:** Coach satisfaction scores on work-life balance, job conditions, and workplace support systems
-- **Measurable:** Annual satisfaction survey with 5-point Likert scale targeting average scores of 4.0+ on work balance items
-- **Achievable:** Based on Inglis & Danylchuk research showing these are controllable retention factors
-- **Relevant:** Addresses underlying causes of turnover identified in peer-reviewed research
-- **Time-bound:** Baseline survey Year 1, target 4.0+ average by Year 2, sustained through Year 3
+### Criterion 2: Improved Team Performance with Coaching Stability
+- **Specific:** Win percentages and conference standings for Division I public university revenue sport programs with stable coaching (coaches with 3+ years tenure)
+- **Measurable:** Programs with stable coaching achieve 10-15% higher win percentages and improve conference standings by 1-2 positions compared to programs with recent coaching changes
+- **Achievable:** Research shows that coaching stability positively correlates with team performance and recruiting success
+- **Relevant:** Demonstrates that extended coach tenure directly improves the athletic outcomes that Athletic Directors are measured on
+- **Time-bound:** Measurable improvements visible within 2-3 years as coaching tenure extends beyond the 3.7 year average
 
-### Criterion 3: Enhanced Recognition and Collegial Support Systems
-- **Specific:** Implementation and utilization of formal recognition programs, mentorship systems, and peer support networks
-- **Measurable:** Number of recognition events, mentorship pairs established, and coach participation rates (target: 80% participation)
-- **Achievable:** Programs can be designed and implemented with existing athletic department resources
-- **Relevant:** Recognition and collegial support identified as key retention factor in research literature
-- **Time-bound:** Programs launched by Month 6, 80% participation achieved by Year 2
+### Criterion 3: Implementation of Coaching Retention Strategies
+- **Specific:** Implementation and utilization of three key retention strategies: multi-year contract guarantees, performance evaluation transparency, and peer mentorship networks
+- **Measurable:** 75% of revenue sport coaching positions have multi-year contracts, 100% have transparent evaluation processes, and 80% of coaches participate in peer mentorship programs
+- **Achievable:** These strategies can be implemented within existing athletic department resources and state budget constraints
+- **Relevant:** These specific interventions directly address the job security and support factors identified as primary causes of coaching turnover
+- **Time-bound:** Multi-year contracts implemented by Year 1, transparent evaluations by Month 6, mentorship programs launched by Year 1 with 80% participation by Year 2
 
 ## Measurement Framework
 
 ### Quantitative Metrics
-- **Turnover Rate**: Annual percentage of coaching staff departures (voluntary and involuntary)
-- **Retention Rate**: Percentage of coaches remaining after 2+ years in position
-- **Time-to-Fill Positions**: Average days to fill vacant coaching positions
-- **Satisfaction Scores**: Numerical ratings on work balance, recognition, and inclusivity factors
-- **Program Performance**: Win-loss records, recruiting rankings, conference standings
-- **Student-Athlete Outcomes**: Graduation rates, transfer rates, academic performance by sport
+- **Average Coach Tenure**: Length of time coaches remain in positions (current baseline: 3.7 years, target: 5+ years)
+- **Win Percentages**: Team performance metrics for revenue sports with stable vs. unstable coaching
+- **Conference Standings**: Position improvements for programs with extended coach tenure
+- **Contract Implementation**: Percentage of coaches with multi-year contracts (target: 75%)
+- **Mentorship Participation**: Percentage of coaches in peer mentorship programs (target: 80%)
+- **Performance Evaluation**: Percentage of coaches with transparent evaluation processes (target: 100%)
 
 ### Qualitative Indicators
-- **Exit Interview Themes**: Common reasons cited for departures
-- **Coach Testimonials**: Narrative feedback on work environment improvements
-- **Program Stability**: Consistency in coaching philosophies and training approaches
-- **Organizational Culture**: Evidence of improved communication, support, and inclusivity
-- **Stakeholder Perceptions**: Alumni, donor, and media commentary on program stability
+- **Coach Job Security Feedback**: Narrative responses showing job security confidence scores of 4.0+/5.0 through multi-year contracts
+- **Evaluation Process Satisfaction**: Coach feedback rating transparency and fairness at 3.5+/5.0
+- **Mentorship Program Value**: Testimonials with 80%+ reporting "high value" from peer support networks and professional development
+- **Program Culture Stability**: Evidence of consistent coaching philosophies and training approaches (documented through program continuity assessments)
+- **Athletic Director Confidence**: Quarterly reports showing program management satisfaction scores of 4.0+/5.0 and hiring stress reduction
 
 ### Leading vs. Lagging Indicators
 
 #### Leading Indicators (Early signals of progress)
-- Number of retention-focused policies implemented
-- Coach participation rates in professional development programs
-- Frequency of recognition events and mentorship meetings
-- Athletic director engagement with coaching staff (meeting frequency)
-- Budget allocation increases for coach support programs
+- Number of multi-year contracts signed by revenue sport coaches
+- Coach participation rates in peer mentorship programs
+- Implementation of transparent performance evaluation processes
+- Athletic Director-coach meeting frequency and quality
+- Budget allocations for retention program support
 
 #### Lagging Indicators (Final outcomes)
-- Annual coaching turnover rates
-- Program performance metrics (wins, recruiting success)
-- Coach satisfaction survey results
-- Student-athlete retention and transfer rates
-- External stakeholder confidence measures
+- Average coach tenure extension from 3.7 to 5+ years
+- Team performance improvements (win percentages, conference standings)
+- Reduced coaching turnover rates in revenue sports
+- Program stability and recruiting success
+- Athletic Director and stakeholder satisfaction with retention results
+
+## Baseline Measurements
 
 ## Baseline Measurements
 
 ### Current State Metrics
-**Coaching Turnover Rate:** [To be established - research industry average ~30% annually]
-**Work Balance Satisfaction:** [To be measured via initial survey]
-**Recognition Program Participation:** [Current baseline likely 0% - no formal programs]
+**Average Coach Tenure:** 3.7 years (based on Athletic Director U coaching carousel study)
+**Annual Coaching Turnover Rate:** Approximately 20% of top-level coaching leadership terminated yearly (Athletic Director U, n.d.)
+**Multi-year Contract Guarantees:** Initial term contracts typically offer 50-75% guarantee for coaches and 25-50% for universities, indicating widespread use of multi-year contracts with varying security levels (Athletic Director U, n.d.)
+**Performance Evaluation Transparency:** To be assessed through initial survey of current evaluation practices
+**Peer Mentorship Programs:** Currently no formal programs exist (baseline: 0% participation)
+**Team Performance with Stable Coaching:** To be established through analysis of win percentages for teams with coaches tenure 3+ years vs. recent hires
 
 ### Data Collection Plan
-- **Annual HR Records**: Track departures, tenure, reasons for leaving
-- **Bi-annual Satisfaction Surveys**: Anonymous coach and staff feedback
-- **Quarterly Stakeholder Interviews**: Athletic directors, senior administrators
-- **Performance Dashboards**: Ongoing monitoring of program metrics
+- **Athletic Department Records**: Track coach tenure, contract types, and departure reasons for revenue sports
+- **Performance Data**: Monitor win percentages and conference standings for teams with stable vs. new coaching
+- **Contract Implementation Tracking**: Document progress on multi-year contract negotiations and completions
+- **Mentorship Program Metrics**: Track participation rates and program satisfaction in peer networks
+- **Evaluation Process Documentation**: Monitor implementation of transparent performance evaluation systems
 
 ## Success Thresholds
 
 ### Minimum Acceptable Improvement
-- 15% reduction in coaching turnover within 2 years
-- Average satisfaction scores increase from baseline to 3.5+ on 5-point scale
-- At least 50% coach participation in new support programs
+- Increase average coach tenure from 3.7 to 4.5 years within 2 years (22% improvement)
+- Reduce annual turnover rate from 20% to 15% 
+- 75% of revenue sport coaches have multi-year contracts with guarantees
+- 60% participation in peer mentorship programs
 
-### Target Performance Level
-- 25% reduction in coaching turnover within 3 years
-- Average satisfaction scores of 4.0+ on work balance and recognition factors
-- 80% coach participation in retention-focused programs
+### Target Performance Level  
+- Increase average coach tenure from 3.7 to 5+ years within 3 years (35% improvement)
+- Reduce annual turnover rate from 20% to 12%
+- 10-15% improvement in team performance metrics with stable coaching
+- 80% participation in retention programs with transparent evaluations
 
 ### Stretch Goal
-- 40% reduction in turnover, matching industry best practices
-- 4.5+ satisfaction scores across all retention factors
-- 95% participation with coaches actively recommending programs
+- Achieve 6+ year average coach tenure matching industry best practices (62% improvement)
+- Reduce annual turnover rate from 20% to under 10%
+- 20% improvement in team performance and conference standings
+- 95% participation with coaches actively recommending retention programs
 
 ## Stakeholder-Specific Success Criteria
 
-### Athletic Director Success Measures
-- Reduced recruitment disruption and hiring costs
-- Improved program performance and stability metrics
-- Enhanced donor confidence and stakeholder satisfaction
+### Athletic Directors (Primary Decision Makers)
+**Financial Success Metrics:**
+- 30% reduction in coaching search and hiring costs (averaging $50,000-75,000 per search)
+- Decreased legal fees from contract buyouts and transitions by 25%
+- Donor retention rate increases by 15% with stable, successful programs
 
-### Coach Success Measures
-- Better work-life balance and job security
-- Increased professional development opportunities
-- Stronger collegial relationships and recognition
+**Performance Success Metrics:**
+- 15% improvement in conference standings with coaching stability
+- Season ticket sales increase by 10% with program stability
+- NCAA compliance violations reduced by 50% with decreased staff turnover
 
-### Student-Athlete Success Measures
-- Consistent coaching relationships and training approaches
-- Reduced uncertainty about program direction
-- Improved athletic and academic outcomes
+**Operational Success Metrics:**
+- 90% coach satisfaction scores in annual evaluations
+- Administrative time spent on hiring reduced by 40%
+- Positive media coverage increases by 25% with stable programs
+
+### Head Coaches (Direct Recipients)
+**Professional Security Metrics:**
+- 80% of coaches report job security confidence scores of 4.0+/5.0 
+- Average contract length increases from 2.5 to 4+ years
+- 75% participation in professional development programs
+
+**Performance Support Metrics:**
+- Access to transparent, objective evaluation criteria (100% implementation)
+- Structured mentorship reducing isolation and stress (measured by 3.5+/5.0 satisfaction)
+- Clear pathways for contract extensions based on performance (documented criteria)
+
+**Work-Life Balance Metrics:**
+- 70% report stress reduction about job uncertainty (baseline vs. follow-up survey)
+- Recruitment planning extends to 3+ year cycles with multi-year contracts
+- Coaching staff retention under stable leadership increases by 25%
+
+### Student-Athletes (Ultimate Beneficiaries)
+**Academic Success Metrics:**
+- 10% improvement in team GPA with coaching stability (baseline 3.0 to 3.3+ target)
+- Graduation rates increase by 15% in programs with stable coaching
+- Academic support consistency measured by 90% student-athlete satisfaction
+
+**Athletic Performance Metrics:**
+- Individual and team performance metrics improve by 10-15% 
+- Transfer portal departures decrease by 20% with coaching stability
+- Long-term athletic development measured by 4+ year athlete retention rates of 85%+
+
+**Personal Development Metrics:**
+- Coach-athlete relationship satisfaction scores of 4.0+/5.0
+- Mental health support consistency with coaching staff (measured by counseling referral patterns)
+- Career preparation and networking opportunities quantified by post-graduation employment rates
+
+### University Administration (Strategic Oversight)
+**Institutional Success Metrics:**
+- Athletic success alignment with university mission (measured by 90% stakeholder agreement)
+- Public relations sentiment analysis shows 25% increase in positive coverage
+- Alumni engagement increases by 20% and institutional pride measured by donor participation
+
+**Compliance and Risk Metrics:**
+- NCAA violations and compliance issues reduced by 75%
+- Legal and financial risks from coaching turnover decreased by 50%
+- Staff morale across athletic department improves to 4.0+/5.0 satisfaction scores
+
+**Strategic Planning Metrics:**
+- Long-term planning horizon extends from 1-2 to 3-5 years with coaching stability
+- Top-tier coaching talent recruitment success rate increases by 30%
+- Competitive positioning within conference improves by 1-2 standings positions
 
 ## Risk Indicators
 
-### Red Flags
-- Increased turnover in first year of implementation
-- Decreased satisfaction scores despite new programs
-- Coach resistance or low participation rates
-- Budget constraints limiting program sustainability
+### Early Warning Signs (Red Flags)
+**Implementation Resistance:**
+- Less than 50% coach participation in mentorship programs within first 60 days
+- Negative feedback scores below 2.5/5.0 in initial program evaluations
+- Athletic Director reports of increased coach complaints or grievances
 
-### Mitigation Triggers
-- If turnover increases by 10% in Year 1, reassess approach
-- If satisfaction scores drop below 3.0, investigate implementation issues
-- If participation falls below 40%, redesign engagement strategy
+**Performance Deterioration:**
+- Team performance drops more than 10% in first season of implementation
+- Increased media criticism or fan dissatisfaction with coaching decisions
+- Transfer portal activity increases beyond baseline 15-20% range
+
+**Financial/Resource Constraints:**
+- Program costs exceed budget by more than 20% in first year
+- Reduced funding for coaching development or evaluation programs
+- Inability to offer competitive multi-year contract guarantees
+
+### Mitigation Triggers and Responses
+**If turnover increases by 10% in Year 1:**
+- Immediate review of implementation approach with stakeholder feedback
+- Assess whether external factors (conference realignment, budget cuts) are contributing
+- Adjust program components based on coach and AD input
+
+**If coach satisfaction scores drop below 3.0/5.0:**
+- Conduct individual interviews with participating coaches
+- Review transparency and fairness of evaluation criteria
+- Modify mentorship matching or professional development offerings
+
+**If participation falls below 40% target:**
+- Reassess incentive structure and program communication
+- Address potential barriers (time, resources, perceived value)
+- Consider mandatory vs. voluntary participation models
+
+**If budget constraints emerge:**
+- Prioritize highest-impact, lowest-cost interventions (peer mentorship)
+- Seek alternative funding through alumni or conference partnerships
+- Implement phased rollout focusing on revenue sports first
 
 ## Timeline for Assessment
 
-### Short-term (30-90 days)
-[What should improve quickly?]
+### Short-term Assessment (30-90 days)
+**Initial Implementation Metrics:**
+- Coach participation rates in new programs (target: 60%+)
+- Baseline satisfaction surveys completed (target: 80% response rate)
+- Multi-year contract conversion rate for eligible coaches (target: 50%+)
+- Athletic Director feedback on program launch and early observations
 
-### Medium-term (3-6 months)
-[What should improve over time?]
+**Quick Win Indicators:**
+- Reduction in coach complaints or grievance filings
+- Positive media coverage or stakeholder feedback
+- Improved coach-AD communication frequency and quality
+- Early signs of recruiting stability (verbal commitments maintained)
 
-### Long-term (6-12 months)
-[What are the ultimate outcomes?]
+### Medium-term Assessment (3-6 months)
+**Stability Indicators:**
+- Coach retention rate compared to previous year baseline (20% turnover)
+- Team performance metrics vs. previous season benchmarks
+- Coaching staff morale and job satisfaction scores (target: 3.5+/5.0)
+- Implementation of transparent evaluation criteria across 75%+ of programs
+
+**Process Improvement Metrics:**
+- Effectiveness of mentorship pairings (monthly check-ins completed)
+- Professional development program completion rates (target: 70%+)
+- AD satisfaction with new evaluation and retention processes
+- Budget performance vs. projected costs for sustainability
+
+### Long-term Assessment (6-12 months)
+**Ultimate Outcome Measures:**
+- Average coach tenure increase from 3.7 to 4.5+ years
+- Annual turnover rate reduction from 20% to 15% or lower
+- Team performance improvement of 10-15% across participating programs
+- Student-athlete satisfaction with coaching stability and development
+
+**Sustainability Indicators:**
+- Program institutionalization (formal policies adopted)
+- Budget allocation secured for ongoing years
+- Coach advocacy and program recommendation rates (target: 80%+)
+- Measurable ROI through reduced hiring costs and improved performance
 
 ## Reporting Framework
-[How will progress be communicated to stakeholders?]
 
-### Dashboard Metrics
-[Key metrics for ongoing monitoring]
+### Dashboard Metrics (Real-time Monitoring)
+**Monthly Tracking:**
+- Coach tenure length (updated monthly from HR records)
+- Contract status (multi-year vs. annual agreements)
+- Mentorship program participation rates
+- Team performance metrics (win percentages, rankings)
+
+**Quarterly Tracking:**
+- Coach satisfaction surveys (administered each quarter)
+- Athletic Director feedback assessments
+- Budget performance vs. projected retention program costs
+- Student-athlete academic and performance indicators
 
 ### Regular Reports
-[What will be reported and how often?]
+
+**Monthly Executive Summary (to University Administration):**
+- Key performance indicators dashboard
+- Budget variance reports for retention programs
+- Early warning indicator status
+- Upcoming milestone achievements
+
+**Quarterly Stakeholder Report (to Athletic Directors, Coaches, Board):**
+- Comprehensive progress against SMART criteria
+- Stakeholder-specific success metric updates
+- Risk indicator assessment and mitigation actions
+- Financial ROI analysis (hiring cost savings vs. program investment)
+
+**Annual Comprehensive Assessment:**
+- Full evaluation against all success criteria
+- Stakeholder satisfaction survey results
+- Program sustainability and budget allocation recommendations
+- Strategic planning updates based on outcomes
 
 ### Milestone Reviews
-[When will formal assessments occur?]
+
+**60-Day Implementation Review:**
+- Initial participation rates and early adoption metrics
+- Budget performance and resource allocation assessment
+- Stakeholder feedback and program adjustment recommendations
+
+**6-Month Mid-Point Assessment:**
+- Progress toward minimum acceptable improvement thresholds
+- Coach retention rates vs. baseline (20% turnover)
+- Team performance correlation with coaching stability
+- Program refinement and optimization strategies
+
+**Annual Strategic Review:**
+- Full SMART criteria evaluation and target achievement
+- ROI analysis: program costs vs. hiring savings and performance gains
+- Sustainability planning and budget allocation for subsequent years
+- Expansion recommendations to additional sports or program enhancements
+
+### Data Collection Methods
+**Quantitative Data Sources:**
+- Athletic department HR records (tenure, contracts, departures)
+- University financial systems (hiring costs, legal fees, program expenses)
+- NCAA and conference performance databases
+- Student information systems (GPAs, graduation rates, retention)
+
+**Qualitative Data Collection:**
+- Quarterly coach satisfaction surveys (online, anonymous)
+- Semi-annual Athletic Director interviews (structured questionnaire)
+- Annual student-athlete focus groups
+- Peer institution benchmarking studies
+
+## References
+
+Athletic Director U. (n.d.). Making sense of college coaching contracts. https://athleticdirectoru.com/articles/making-sense-of-college-coaching-contracts/
 
 ---
 INSTRUCTIONS:
