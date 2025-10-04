@@ -1,6 +1,6 @@
-# Stakeholder Analysis
+# 👥 Stakeholder Analysis
 
-## Internal Stakeholders
+## 🏢 Internal Stakeholders
 
 ### Senior Management (Athletic Directors & University Administration)
 - **Interest in Problem:** High coaching turnover in Division I public university revenue sports damages program reputation, increases costs, disrupts recruiting, and affects donor confidence. State funding pressures and budget constraints make turnover particularly costly, while public accountability requirements demand stable program performance.
@@ -26,7 +26,7 @@
 - **Influence Level:** Medium - Performance, satisfaction, and transfer portal decisions can influence coach retention and program reputation
 - **Support Level:** Likely supporter - Stability benefits their athletic development, team success, and potential professional prospects
 
-## External Stakeholders
+## 🌐 External Stakeholders
 
 ### Alumni/Donors/Boosters
 - **Interest in Problem:** Coaching instability in Division I public university revenue sports threatens program success, reducing their return on investment and pride in the university. Poor performance affects their willingness to donate, especially when state funding limitations require private support.
@@ -56,7 +56,7 @@
 - **Support Level:** Neutral - will support if solution demonstrates clear results
 - **Evidence Questions:** Do they view this as a systemic management problem? What solutions would generate positive coverage? What unintended consequences concern them?
 
-##Hidden Stakeholders
+## 🔍 Hidden Stakeholders
 
 ### High School Coaches/Club Directors
 - **Interest in Problem:** Coaching turnover disrupts recruiting relationships and creates uncertainty about program stability for their athletes.
@@ -76,7 +76,7 @@
 - **Influence Level:** Low to Medium - Influence through alumni networks and testimonials
 - **Support Level:** Likely supporter - program stability protects their investment and memories
 
-## Stakeholder Engagement Strategy
+## ⚡ Stakeholder Engagement Strategy
 
 ### High Influence, High Interest (Manage Closely)
 - **Athletic Directors & University Administration**: Regular briefings, involve in solution design, address budget/performance concerns
@@ -94,7 +94,7 @@
 - **Media/Public**: Respond to inquiries, provide updates when appropriate, avoid over-communication
 - **Former Players**: Occasional updates through alumni networks, leverage for positive testimonials
 
-## Key Stakeholder Insights for Evidence Collection
+## 🔑 Key Stakeholder Insights for Evidence Collection
 
 ### Who to Interview/Survey
 **Priority 1 (Most Accessible)**: Student-athletes, current coaching staff, recruiting coordinators

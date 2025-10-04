@@ -177,9 +177,77 @@
             max-width: 100%;
             font-family: 'Segoe UI', sans-serif;
             font-size: 0.9em;
-            line-height: 1.5;
+            line-height: 1.6;
             margin: 0;
             padding: 0;
+        }
+
+        /* Enhanced Header Styling for Content */
+        .content-file-preview pre h1,
+        .content-file-preview pre h2,
+        .content-file-preview pre h3 {
+            font-family: 'Segoe UI', sans-serif;
+            font-weight: bold;
+            margin: 20px 0 15px 0;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Main Headers (# Problem Definition) */
+        .content-file-preview pre h1 {
+            font-size: 1.8em;
+            background: linear-gradient(135deg, #c8a8e9, #b58ce0);
+            color: white;
+            border-left: 6px solid #9b59b6;
+            margin-bottom: 25px;
+        }
+
+        /* Sub Headers (## X → Y Framework) */
+        .content-file-preview pre h2 {
+            font-size: 1.4em;
+            background: linear-gradient(135deg, #f5f2e8, #e8dfa0);
+            color: #5d4e75;
+            border-left: 4px solid #c8a8e9;
+            margin-bottom: 20px;
+        }
+
+        /* Sub-Sub Headers (### Current State) */
+        .content-file-preview pre h3 {
+            font-size: 1.2em;
+            background: #faf8ff;
+            color: #4a4a4a;
+            border-left: 3px solid #d4a5d8;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        /* Section Containers */
+        .content-section {
+            background: #fdfdfd;
+            border: 2px solid #e8e8e8;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 15px 0;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+        }
+
+        /* Better bullet point styling */
+        .content-file-preview pre ul {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+
+        .content-file-preview pre li {
+            margin: 8px 0;
+            line-height: 1.5;
+            color: #333;
+        }
+
+        /* Strong text in content */
+        .content-file-preview pre strong {
+            color: #5d4e75;
+            font-weight: 600;
         }
 
         .content-file-preview:hover {

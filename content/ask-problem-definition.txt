@@ -1,12 +1,12 @@
-# Problem Definition
+# 🏆 Problem Definition
 
-## X → Y Framework
+## 🎯 X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
 High coaching turnover rates in Division I public university revenue sport programs have increased significantly in recent years, disrupting program stability and negatively impacting team performance, athlete developement, and organizational sucesss.
 ### Desired State (Y - What outcome do we want to achieve?)
 Reduced coaching turnover in Division I public university revenue sport programs, resulting in team performance improvements (higher win percentages) and program stability (longer average coach tenure).
 
-## Research Questions
+## 🔍 Research Questions
 
 ### Primary Research Question:
 **"What coaching retention strategies can Division I public university revenue sport programs implement to extend average coach tenure beyond the current 3.7 years and improve team performance?"**
@@ -36,7 +36,7 @@ Reduced coaching turnover in Division I public university revenue sport programs
 14. How do coaching turnover patterns vary between public and private Division I universities?
 15. What state funding and budget constraint factors most affect coaching retention at public institutions?
 
-## PICOC Framework
+## 📊 PICOC Framework
 ### Population (P - Who is affected by this problem?)
 - **Primary**: Athletic directors and administrators at Division I public universities who are responsible for revenue sport program performance and coaching retention decisions
 - **Secondary**: Revenue sport athletes who experience disruption from coaching changes
@@ -58,10 +58,10 @@ Implementing coaching retention strategies focused on: multi-year contract guara
 ### Context (C - Where/when does this apply?)
 Division I public university revenue sport programs where state funding pressures and budget constraints contribute to higher coaching turnover rates compared to private institutions.
 
-## Clear Problem Statement
+## 🎯 Clear Problem Statement
 High coaching turnover rates in Division I public university revenue sport programs (averaging only 3.7 years tenure) are undermining program stability and negatively impacting team performance.
 
-## Why This Problem Matters
+## 💡 Why This Problem Matters
 ### Impact on Organization
 Poor coaching management leads to decreased program competitiveness, reduced recruiting effectiveness, increased operational costs from constant hiring/training, damaged reputation affecting donations and enrollment, and potential NCAA compliance issues. Athletic departments lose institutional knowledge and continuity essential for long-term success.
 
@@ -73,7 +73,7 @@ Effective coaching retention directly supports Division I public university goal
 
 
 
-## References
+## 📚 References
 Athletic Director U. (n.d.). Coaching carousel study. https://athleticdirectoru.com/articles/coaching-carousel-study/
 
 
