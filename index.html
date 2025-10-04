@@ -222,6 +222,34 @@
             font-weight: 600;
         }
 
+        /* Enhanced styling for descriptive headers like "Population (P - Who is affected...)" */
+        .content-file-preview pre h3,
+        .content-file-preview pre h4 {
+            font-size: 1.15em;
+            color: #000000;
+            font-weight: bold;
+            margin: 15px 0 10px 0;
+            line-height: 1.4;
+        }
+
+        /* Target lines that start with descriptive text (Population, Intervention, etc.) */
+        .content-file-preview pre {
+            line-height: 1.7;
+        }
+
+        .content-file-preview pre p {
+            font-size: 1.0em;
+            color: #333;
+            margin: 10px 0;
+        }
+
+        /* Make text starting with key terms more prominent */
+        .content-file-preview pre strong {
+            color: #000000;
+            font-weight: 700;
+            font-size: 1.05em;
+        }
+
         /* Section Containers */
         .content-section {
             background: #fdfdfd;
@@ -240,14 +268,9 @@
 
         .content-file-preview pre li {
             margin: 8px 0;
-            line-height: 1.5;
-            color: #333;
-        }
-
-        /* Strong text in content */
-        .content-file-preview pre strong {
-            color: #5d4e75;
-            font-weight: 600;
+            line-height: 1.6;
+            color: #000000;
+            font-size: 1.0em;
         }
 
         .content-file-preview:hover {
