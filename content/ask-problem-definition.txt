@@ -3,6 +3,14 @@
 ## 🎯 X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
 High coaching turnover rates in Division I public university revenue sport programs have increased significantly in recent years, disrupting program stability and negatively impacting team performance, athlete developement, and organizational sucesss.
+
+### Mediator (How will we bridge X to Y?)
+Through implementation of evidence-based coaching retention strategies including:
+- **Multi-year contract guarantees** to provide job security
+- **Performance evaluation transparency** to create clear expectations
+- **Peer mentorship networks** to reduce isolation and provide professional development
+- **State funding optimization** to support sustainable retention programs within public university budget constraints
+
 ### Desired State (Y - What outcome do we want to achieve?)
 Reduced coaching turnover in Division I public university revenue sport programs, resulting in team performance improvements (higher win percentages) and program stability (longer average coach tenure).
 
