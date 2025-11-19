@@ -222,34 +222,6 @@
             font-weight: 600;
         }
 
-        /* Enhanced styling for descriptive headers like "Population (P - Who is affected...)" */
-        .content-file-preview pre h3,
-        .content-file-preview pre h4 {
-            font-size: 1.15em;
-            color: #000000;
-            font-weight: bold;
-            margin: 15px 0 10px 0;
-            line-height: 1.4;
-        }
-
-        /* Target lines that start with descriptive text (Population, Intervention, etc.) */
-        .content-file-preview pre {
-            line-height: 1.7;
-        }
-
-        .content-file-preview pre p {
-            font-size: 1.0em;
-            color: #333;
-            margin: 10px 0;
-        }
-
-        /* Make text starting with key terms more prominent */
-        .content-file-preview pre strong {
-            color: #000000;
-            font-weight: 700;
-            font-size: 1.05em;
-        }
-
         /* Section Containers */
         .content-section {
             background: #fdfdfd;
@@ -268,9 +240,14 @@
 
         .content-file-preview pre li {
             margin: 8px 0;
-            line-height: 1.6;
-            color: #000000;
-            font-size: 1.0em;
+            line-height: 1.5;
+            color: #333;
+        }
+
+        /* Strong text in content */
+        .content-file-preview pre strong {
+            color: #5d4e75;
+            font-weight: 600;
         }
 
         .content-file-preview:hover {
@@ -601,19 +578,52 @@ How will you know if your evidence-based solution worked?</pre>
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-methods.txt')">
                             <h4>📝 content/evidence-practitioner-methods.txt</h4>
                             <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Document how you collected practitioner insights, interviews, case studies]</pre>
+                            <pre>ACTUAL METHODS USED: Published video interviews from Athletic Director U (3 sources) + articles from Sports Business Journal & The Athletic (2 sources) = 5 Athletic Directors total.
+
+✅ Julie Cromer (Ohio) - 20-year coaching tenure, zero transfer portal losses
+✅ Kim Durand (Washington) - 3 AD transitions in 1 year, extreme instability
+✅ Gene Taylor (Kansas State) - 20+ years as AD, veteran perspective
+✅ Ross Bjork (Ohio State) - $76M Fisher buyout, elite program scale
+✅ John Cunningham (Cincinnati) - "third coach in five seasons" instability
+
+Documentation: QUICK_CAPTURE_TEMPLATE.md for efficient video review
+Quality assurance: Conference diversity, institutional context diversity, no cherry-picking</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-sources.txt')">
                             <h4>📝 content/evidence-practitioner-sources.txt</h4>
                             <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Summarize expert interviews, case studies, and professional experience]</pre>
+                            <pre>5 ATHLETIC DIRECTORS with direct X→M→Y validation:
+
+📌 EXPLICIT VALIDATION OF HYPOTHESIS:
+• Cromer: "ONLY FBS with zero transfer portal losses" during coaching transition
+• Durand: "Coaches are integral part of day to day" vs. AD strategic role
+• Cunningham: "Third coach in five seasons" required "restoring identity and stability"
+
+🔑 CONVERGENT THEMES (HIGH CONFIDENCE):
+• Culture preservation critical during transitions
+• Proactive succession planning > reactive crisis management
+• Financial investment necessary but insufficient alone
+• Coaching relationships are primary student-athlete touchpoint
+
+Conference diversity: MAC, Big Ten, Big 12 | Context diversity: Extreme stability to extreme instability</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-appraisal.txt')">
                             <h4>📝 content/evidence-practitioner-appraisal.txt</h4>
                             <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre>[Assess the credibility and relevance of practitioner evidence]</pre>
+                            <pre>CEBMa MODULE 4 CRITICAL APPRAISAL - OVERALL RATING: MEDIUM-HIGH
+
+⭐⭐⭐⭐⭐ HIGH VALIDITY (2 sources): Cromer, Taylor - Meet all 4 Module 4 criteria
+⭐⭐⭐⭐ MEDIUM-HIGH (2 sources): Durand, Bjork - Meet 3-3.5 criteria
+⭐⭐⭐ MEDIUM (1 source): Cunningham - Meets 2 criteria but provides explicit X→M→Y validation
+
+✅ STRENGTHS: Geographic/conference diversity, measurable outcomes cited, convergent themes
+⚠️ LIMITATIONS: All ADs (no coach voice), social desirability bias in public announcements
+
+USE FOR: Problem validation, implementation guidance, retention strategy identification
+DON'T USE FOR: Causal proof, quantitative effect sizes, context-free prescriptions
+COMBINE WITH: Scientific evidence (causation), organizational data (scale), stakeholder voice</pre>
                         </div>
                     </div>
 
