@@ -1,53 +1,43 @@
-# Organizational Evidence: Internal Data Collection Strategy
-# Document your approach to gathering internal organizational evidence
+ORGANIZATIONAL EVIDENCE - DATA ACQUISITION METHODS
+Document Created: November 21, 2025
+Student: [Your Name]
+Project: Coaching Turnover Impact on Athletic Performance
 
-## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+LOGIC MODEL
+X (Independent): Coaching Turnover/Instability in College Athletics
+M (Mediator): Recruiting Disruption [Not measured in available datasets]
+Y (Dependent): Team Performance Decline
 
-## Available Data Sources
+RESEARCH QUESTION
+How does coaching employment stability relate to organizational performance in college athletics?
 
-### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+DATA REPOSITORY: Bureau of Labor Statistics (BLS)
 
-### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
+Dataset 1: BLS OEWS - Coaches and Scouts (SOC 27-2022)
+URL: https://www.bls.gov/oes/current/oes272022.htm
+Type: National Occupational Employment and Wage Statistics
+Date: May 2024 (most recent)
 
-### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
+Variables:
+- Total Employment (nationwide)
+- Employment by Industry (Educational Services, Spectator Sports, etc.)
+- Median Annual Wage
+- Percentile Wage Estimates (10th, 25th, 75th, 90th)
+- State-Level Employment
+- Historical Data (2014-2024)
 
-## Data Collection Plan
+Dataset 2: BLS OEWS Historical Tables
+URL: https://www.bls.gov/oes/tables.htm  
+Timeframe: 10-year longitudinal (2014-2024)
 
-### Quantitative Data Collection
-#### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
+Variables:
+- Year-over-year employment changes
+- Employment growth rates
+- Industry sector trends
 
-**Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
-
-**Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
-
-#### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
+AI ASSISTANCE DOCUMENTATION
+AI helped with: Identifying BLS datasets, navigating website, extracting data points
+Student completed: Research question definition, data relevance evaluation, final dataset selection, all analysis and conclusions
 - **Baseline Period:** [What period represents "normal" operations?]
 
 ### Qualitative Data Collection

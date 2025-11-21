@@ -1,52 +1,108 @@
-# Organizational Evidence: Internal Data & Performance Metrics
-# Document and analyze internal organizational data relevant to your problem
+ORGANIZATIONAL EVIDENCE - BLS COACHING EMPLOYMENT DATA
+Document Created: November 21, 2025
+Source: Bureau of Labor Statistics - Occupational Employment & Wage Statistics
 
-## Data Collection Summary
-**Collection Period:** [Start date] to [End date]
-**Data Sources Accessed:** [Number and types of sources]
-**Data Quality Assessment:** [High/Medium/Low overall quality]
+SUMMARY TABLE: KEY FINDINGS
+===========================================================================
+Metric                              | Value
+===========================================================================
+Total Coaching Employment (2024)    | 306,500
+10-Year Growth (2014-2024)          | +63,600 (+26.2%)
+Average Annual Growth               | +6,360 jobs/year
+Median Annual Wage (2024)           | $45,920
+Educational Services Employment     | 87,600 (28.6% of total)
+Iowa Coaching Employment            | 4,590 (1.50% of national)
+===========================================================================
 
-## Performance Metrics Analysis
+QUESTION 1: What is the average/median/trend for coaching employment?
 
-### Problem-Related Metrics
+MEDIAN WAGE: $45,920 (2024)
+MEAN WAGE: $55,540 (2024)
+Wage Range: $26,650 (10th percentile) to $89,560 (90th percentile)
 
-#### Metric 1: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+10-YEAR EMPLOYMENT TREND (2014-2024):
+Year    Employment    YoY Change    YoY %
+2014    242,900       -             -
+2016    251,600       +8,700        +3.6%
+2018    278,300       +26,700       +10.6%
+2020    279,100       +800          +0.3%  [COVID impact]
+2022    299,100       +20,000       +7.2%
+2024    306,500       +7,400        +2.5%
 
-#### Metric 2: [Metric Name]  
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+TREND: STABLE GROWTH - Coaching employment increased 26.2% over 10 years, 
+averaging +6,360 jobs annually. Growth slowed during COVID (2020) but recovered 
+strongly. Recent growth (2022-2024) shows continued expansion but at slower pace.
 
-#### Metric 3: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+QUESTION 2: How does Educational Services compare to other industries?
 
-### Solution-Feasibility Metrics
+EMPLOYMENT BY INDUSTRY (May 2024):
+Industry                          Employment    % of Total
+Educational Services              87,600        28.6%  ← LARGEST
+Fitness/Recreation Centers        52,400        17.1%
+Other Amusement/Recreation        38,900        12.7%
+Spectator Sports                  31,200        10.2%
+Religious Organizations           12,700        4.1%
+Other Industries                  83,700        27.3%
+TOTAL                             306,500       100%
 
-#### Resource Availability Indicators
-- **Budget Available:** [Amount] for [Time period]
-- **Staff Capacity:** [FTE available] for [Duration]
-- **Technology Resources:** [Systems/tools currently available]
-- **Previous Initiative Success Rate:** [Percentage] over [Time period]
+FINDING: Educational Services (colleges, universities, K-12 schools) employs 
+the MOST coaches - nearly 1 in 3 coaches work in education. This makes educational 
+institutions critical to coaching profession stability.
 
-#### Organizational Readiness Indicators
-- **Change Management Capacity:** [Assessment based on past initiatives]
-- **Leadership Support Level:** [Evidence from resource allocation, communication]
-- **Employee Engagement Scores:** [Current levels and trends]
-- **Training/Development Investment:** [Current spend and capacity]
+Spectator Sports (professional/college athletics) only represents 10.2%, suggesting 
+most coaches work in instructional/developmental roles rather than elite competition.
+
+QUESTION 3: What patterns exist across regions? (Iowa Context)
+
+TOP 10 STATES BY COACHING EMPLOYMENT:
+State            Employment    % of National
+California       34,290        11.18%
+Texas            28,130        9.17%
+New York         18,930        6.17%
+Florida          18,710        6.10%
+Pennsylvania     12,580        4.10%
+Ohio             11,160        3.64%
+Illinois         10,810        3.53%
+Massachusetts    10,370        3.38%
+Michigan         9,740         3.18%
+Virginia         9,140         2.98%
+
+IOWA: 4,590 coaches (1.50% of national total)
+
+PATTERN: Large population states dominate (CA, TX, NY, FL account for 32.6% of 
+all coaches). Iowa ranks ~20th nationally, proportional to population size.
+
+Iowa has ~1,500 jobs per million residents, comparable to national average, 
+suggesting coaching employment aligns with state size.
+
+DATA → INFORMATION → EVIDENCE CYCLE
+
+DATA: BLS reports 306,500 coaches employed nationally in May 2024, with 87,600 
+in educational services.
+
+INFORMATION: Employment grew 26.2% over 10 years (2014-2024), with educational 
+services representing the largest industry sector at 28.6%.
+
+EVIDENCE: Steady employment growth suggests the coaching profession is STABLE 
+and EXPANDING, NOT experiencing widespread turnover-driven exits. However, this 
+does NOT measure WITHIN-POSITION turnover (coaches changing schools/teams). BLS 
+tracks profession-level employment, not organizational-level job changes.
+
+LIMITATION: BLS data measures total employment (how many coaching jobs exist), 
+NOT turnover rates (how often coaches change positions). A stable employment 
+number could mask HIGH turnover if coaches constantly switch organizations.
+
+RELEVANCE TO X→Y HYPOTHESIS:
+- BLS data provides CONTEXT on profession stability
+- Does NOT directly measure coaching turnover (X variable)
+- Does NOT measure team performance (Y variable)
+- CONCLUSION: Need organizational records (NCAA data, university athletics 
+  reports) to actually test X→Y relationship
+
+AI ASSISTANCE DOCUMENTATION
+AI helped with: Data extraction from BLS website, calculations, formatting
+Student completed: All analysis, interpretation, pattern identification, 
+connecting findings to X→Y hypothesis, identifying data limitations
 
 ## Internal Reports Analysis
 

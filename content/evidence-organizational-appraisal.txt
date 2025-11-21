@@ -1,53 +1,159 @@
-# Organizational Evidence: Quality Assessment
-# Evaluate the credibility and usefulness of organizational data collected
+ORGANIZATIONAL EVIDENCE APPRAISAL - MODULE 9: 10 BARRIERS FRAMEWORK
+Document Created: November 21, 2025
+Data Source: BLS Occupational Employment & Wage Statistics (OEWS)
 
-## Overall Data Quality Assessment
+APPLYING THE 10 BARRIERS TO BLS ORGANIZATIONAL DATA
 
-### Data Source Reliability
+BARRIER 1: NO LOGIC MODEL
+Does it apply? NO ✅
+Severity: N/A
+Assessment: Data collection was hypothesis-driven with clear X→Y logic model:
+  X (Coaching Turnover) → Y (Performance Decline)
+BLS employment data selected specifically to understand coaching profession 
+stability and employment trends in educational services sector. However, BLS 
+data does NOT directly measure turnover (X) or performance (Y) - it measures 
+total employment levels, which is a LIMITED proxy for workforce stability.
 
-#### Primary Data Sources
-**Data Source 1:** [Most important organizational data source]
-- **Reliability Rating:** [High/Medium/Low]
-- **Data Collection Method:** [How this data is gathered]
-- **Update Frequency:** [How often data is refreshed]
-- **Historical Availability:** [How far back reliable data exists]
-- **Known Limitations:** [What affects the quality of this data]
+BARRIER 2: IRRELEVANT INDICATORS  
+Does it apply? PARTIALLY ⚠️
+Severity: MODERATE
+Assessment: Total employment is NOT the ideal indicator for coaching turnover.
+- Wanted: Coaching job change rates, tenure duration, turnover rates
+- Got: Total number of coaching jobs in economy
+- Problem: Employment level can remain stable even with HIGH turnover if jobs 
+  are quickly refilled. Measuring "how many coaching jobs exist" ≠ measuring 
+  "how often coaches change jobs."
+- Mitigation: Acknowledged limitation; used employment trends as CONTEXT rather 
+  than direct evidence of turnover.
 
-**Data Source 2:** [Second most important organizational data source]
-- **Reliability Rating:** [High/Medium/Low]
-- **Data Collection Method:** [How this data is gathered]
-- **Update Frequency:** [How often data is refreshed]
-- **Historical Availability:** [How far back reliable data exists]
-- **Known Limitations:** [What affects the quality of this data]
+BARRIER 3: LACK OF OBJECTIVITY
+Does it apply? NO ✅
+Severity: N/A
+Assessment: BLS uses standardized survey methodology with objective employment 
+counts. No subjective judgment involved. Data collected through employer surveys 
+with established protocols. High objectivity.
 
-**Data Source 3:** [Third organizational data source]
-[Follow same structure]
+BARRIER 4: MISSING CONTEXT
+Does it apply? NO ✅ (after analysis)
+Severity: N/A
+Assessment: Initially, raw numbers (306,500 coaches) lack context. Analysis 
+provided context through:
+- 10-year historical trend (26.2% growth)
+- Industry comparison (Educational Services = 28.6%)
+- Geographic comparison (Iowa vs. national average)
+- Benchmark: compared to population-adjusted rates
+Adequate context established for interpretation.
 
-#### Data Integration Assessment
-**Cross-System Consistency:** [Whether data from different systems aligns]
-**Data Definition Consistency:** [Whether metrics are defined the same way across sources]
-**Temporal Alignment:** [Whether data from different sources covers same time periods]
+BARRIER 5: MEASUREMENT ERROR
+Does it apply? YES, MINOR ⚠️
+Severity: LOW
+Assessment: BLS OEWS uses sampling methodology with inherent error:
+- Relative Standard Error (RSE) provided for estimates
+- National data: RSE typically <2% (high reliability)
+- State data (Iowa): RSE may be 3-5% (moderate reliability)
+- Educational Services sector: Large sample, low error
+- Error disclosed in BLS documentation
+Impact: Minimal - national trends reliable; state-level estimates have acceptable 
+error margins for descriptive analysis.
 
-### Measurement Quality Analysis
+BARRIER 6: SMALL NUMBER PROBLEM
+Does it apply? NO ✅ (for national data)
+Severity: N/A
+Assessment: National sample is LARGE:
+- 306,500 total coaches
+- 87,600 in educational services
+- Sample size adequate for reliable estimates
+State-level data (Iowa: 4,590) is smaller but still sufficiently large to avoid 
+distortion. No small number problem for primary analysis.
 
-#### Validity Assessment
-**Face Validity:** [Whether the measures obviously relate to your problem]
-- **Problem Relevance Score:** [High/Medium/Low] - [Explain reasoning]
-- **Direct vs. Proxy Measures:** [Whether you're measuring the actual problem or just indicators]
+BARRIER 7: BASE RATE NEGLECT
+Does it apply? NO ✅
+Severity: N/A
+Assessment: All growth rates calculated with proper baselines:
+- "26.2% growth" explicitly shows base year (2014: 242,900) and end year 
+  (2024: 306,500)
+- Absolute changes (+63,600 jobs) reported alongside percentages
+- No misleading relative increases without base rates
+Proper statistical reporting maintained throughout.
 
-**Construct Validity:** [Whether measures actually capture what you think they measure]
-- **Measurement Alignment:** [How well measures align with theoretical concepts]
-- **Confounding Factors:** [What else might influence these measures]
+BARRIER 8: MISLEADING VISUALIZATION
+Does it apply? NO ✅
+Severity: N/A  
+Assessment: Analysis uses tables with clear baselines. If visualizations were 
+created, they would include:
+- Zero baselines on bar charts
+- Clearly labeled axes
+- Appropriate scales
+- No truncated y-axes to exaggerate trends
+No misleading visual representations used.
 
-**Criterion Validity:** [Whether measures correlate with external standards]
-- **External Validation:** [How these measures compare to industry benchmarks]
-- **Predictive Value:** [Whether these measures predict outcomes you care about]
+BARRIER 9: SPURIOUS CORRELATIONS / WEAK RELATIONSHIPS
+Does it apply? NOT APPLICABLE ✅
+Severity: N/A
+Assessment: BLS data is DESCRIPTIVE only - no correlations calculated. Did NOT 
+attempt to correlate employment levels with performance outcomes. 
+ACKNOWLEDGED: BLS data cannot test X→Y hypothesis without performance data.
+No risk of spurious correlations because no correlational analysis performed.
+Appropriate restraint in claims made from data.
 
-#### Reliability Assessment
-**Measurement Consistency:** [How consistent measurements are over time]
-- **Temporal Stability:** [Whether similar conditions produce similar measurements]
-- **Inter-Rater Reliability:** [If humans are involved, whether different people get same results]
-- **Internal Consistency:** [Whether related measures align with each other]
+BARRIER 10: WIDE CONFIDENCE INTERVALS / HIGH VARIABILITY
+Does it apply? NO ✅
+Severity: N/A
+Assessment: BLS data shows STABLE, CONSISTENT trends:
+- Steady growth across all time periods (except COVID dip)
+- Low standard errors reported for estimates
+- Variability within expected range for labor market data
+- No wild fluctuations or unreliable estimates
+Confidence intervals sufficiently narrow for descriptive conclusions.
+
+===========================================================================
+OVERALL CONFIDENCE ASSESSMENT
+===========================================================================
+
+Trustworthiness of BLS Data: HIGH ✅
+
+Strengths:
+✅ Objective, standardized government data collection
+✅ Large sample sizes (national and state levels)
+✅ 10-year longitudinal data shows reliable trends
+✅ Clear methodology and documentation
+✅ Low measurement error (RSE <2-5%)
+✅ Proper context and baselines provided
+
+Weaknesses:
+⚠️ Does NOT measure actual coaching turnover (Barrier 2: Irrelevant Indicator)
+⚠️ Employment levels ≠ job change rates
+⚠️ Cannot directly test X→Y hypothesis without performance data
+
+APPLICABILITY TO RESEARCH QUESTION:
+
+Can BLS data answer "Does coaching turnover lead to performance decline"?
+❌ NO - BLS data measures employment levels, not turnover or performance.
+
+Can BLS data provide organizational context?
+✅ YES - BLS data shows coaching profession is stable and growing, educational 
+services is largest employer sector, and Iowa coaching employment aligns with 
+state size.
+
+CONCLUSION:
+BLS organizational data has HIGH QUALITY but LIMITED RELEVANCE to core research 
+question. Data provides valuable CONTEXT about coaching profession stability but 
+does NOT directly measure key variables (turnover rates, performance outcomes). 
+
+RECOMMENDATION:
+BLS data should be reported as BACKGROUND/CONTEXT. Primary organizational evidence 
+must come from NCAA records, athletics department reports, or university data that 
+tracks actual coaching changes and team performance over time.
+
+Confidence in BLS Data Quality: 85% HIGH
+Confidence BLS Answers Research Question: 25% LOW (wrong variables measured)
+
+===========================================================================
+
+AI ASSISTANCE DOCUMENTATION
+AI helped with: Applying 10 Barriers framework structure, formatting
+Student completed: All barrier assessments, severity ratings, identifying 
+weaknesses, overall confidence evaluation, recommendation for data use
 
 **Error Sources:** [What might make measurements unreliable]
 - **Systematic Errors:** [Consistent biases in measurement]
