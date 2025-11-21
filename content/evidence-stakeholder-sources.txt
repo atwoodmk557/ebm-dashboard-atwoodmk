@@ -1,53 +1,389 @@
-# Stakeholder Evidence: Feedback & Perspectives
-# Document stakeholder input gathered through surveys, interviews, and other engagement
+STAKEHOLDER EVIDENCE - SOURCES & FEEDBACK
+Document Created: November 21, 2025
+Student: [Your Name]
+Project: Coaching Turnover Impact on Athletic Performance
 
-## Evidence Collection Summary
-**Data Collection Period:** [Start date] to [End date]
-**Total Stakeholders Engaged:** [Number across all methods]
-**Response Rate:** [Percentage of invited stakeholders who participated]
-**Methods Used:** [Surveys, interviews, focus groups, other]
+EVIDENCE COLLECTION SUMMARY
+Evidence Type: SECONDARY SOURCES ONLY (no primary data collection conducted)
+Data Collection Period: Existing published sources accessed November 2025
+Total Verified Sources: 3 secondary data sources
+Response Rate: N/A (secondary sources analysis)
+Methods Used: (1) Published survey reanalysis, (2) Transfer portal database query, (3) Published interview reanalysis
 
-## Survey Results
+========================================
+SOURCE 1: KNIGHT COMMISSION/ELON POLL - DIVISION I LEADERS SURVEY
+========================================
 
-### Response Demographics
-- **Total Survey Responses:** [Number]
-- **Response Rate:** [Percentage of those invited]
-- **Stakeholder Group Breakdown:**
-  - Management/Leadership: [Number and percentage]
-  - Employees/Staff: [Number and percentage]  
-  - Customers/Clients: [Number and percentage]
-  - Partners/Suppliers: [Number and percentage]
+SURVEY METHODOLOGY
+Survey Title: "Division I Leaders Survey: College Sports at a Crossroads"
+Conducted By: Knight Commission on Intercollegiate Athletics + Elon University Poll
+Survey Period: July 29 - August 22, 2025
+Release Date: October 9, 2025
+Survey Platform: Qualtrics online web-based survey
+Respondents: 376 NCAA Division I leaders
+Response Rate: 26% (1,443 invited)
+Margin of Error: +/-4.4%
+Confidence Level: 95%
 
-### Problem Recognition and Impact
+STAKEHOLDER GROUPS SURVEYED
+✅ University Presidents and Chancellors
+✅ Athletic Directors  
+✅ Senior Woman Administrators
+✅ Faculty Athletics Representatives
 
-#### Problem Awareness
-- **Stakeholders who recognize the problem:** [Percentage]
-- **Stakeholders who see it as high priority:** [Percentage]
-- **Stakeholders directly affected:** [Percentage]
+SURVEY FINDINGS: TRANSFER PORTAL IMPACT (LINKED TO COACHING INSTABILITY)
 
-#### Problem Impact Assessment
-**Question: How significantly does this problem impact your work/experience?**
-- High Impact: [Percentage] of respondents
-- Medium Impact: [Percentage] of respondents  
-- Low Impact: [Percentage] of respondents
-- No Impact: [Percentage] of respondents
+Q: "What impact has the transfer portal had on Division I athletics?"
+- NEGATIVE impact: 86% of respondents
+- POSITIVE impact: 7% of respondents
+- UNSURE: 7% of respondents
 
-**Most Common Impact Descriptions:**
-[List the top 3-5 ways stakeholders describe being affected]
+KEY FINDING: "Nine in ten say the transfer portal is harming Division I athletics" 
+- Jason Husser, Director, Elon University Poll
 
-#### Problem Frequency
-**Question: How frequently do you encounter this problem?**
-- Daily: [Percentage]
-- Weekly: [Percentage]
-- Monthly: [Percentage]
-- Rarely: [Percentage]
-- Never: [Percentage]
+Q: "Should NCAA allow athletes to transfer unlimited times with immediate eligibility?"
+- OPPOSE: 84% of respondents
+- SUPPORT: 10% of respondents
+- UNSURE: 6% of respondents
 
-### Solution Feedback
+Q: "Should NCAA enforce strong penalties for tampering?"
+- SUPPORT: 94% of respondents
+- OPPOSE: 3% of respondents
+- UNSURE: 3% of respondents
 
-#### Solution Feasibility Assessment
-**Question: How feasible do you think the proposed solution is?**
-- Very Feasible: [Percentage]
+STAKEHOLDER INTERPRETATION:
+Transfer portal is DIRECTLY LINKED to coaching instability. When coaches turnover:
+- New coaches recruit through portal (increase in transfers)
+- Existing players leave for better situations (increase in transfers)
+- 86% of D-I leaders say this pattern is HARMFUL to Division I athletics
+- 94% want stronger penalties (suggests current instability is unacceptable)
+
+SURVEY FINDINGS: FINANCIAL SUSTAINABILITY CONCERNS
+
+Q: "What direction is Division I athletics headed?"
+- NEGATIVE direction: 62% of all respondents
+- POSITIVE direction: 9% of all respondents
+- UNSURE: 28% of all respondents
+
+By Stakeholder Group:
+- Presidents/Chancellors saying NEGATIVE: Higher than average
+- Athletic Directors saying NEGATIVE: 55%
+- Overall consensus: D-I structure is NOT sustainable
+
+Q: "Concerns about reliance on institutional funds and student fees?"
+- Presidents/Chancellors concerned: 86%
+- Athletic Directors concerned: 80%
+- Overall concern level: Very HIGH
+
+Q: "Concerns about sustaining competitive classification level?"
+- FBS leaders concerned: 48%
+- Non-FBS leaders concerned: 60%
+- Interpretation: Coaching buyouts/salaries contribute to unsustainable spending
+
+COACHING TURNOVER FINANCIAL IMPACT (Knight Commission Context):
+Knight Commission Nov 18, 2025 update on "FBS Football Coaching Severance Resource"
+- Documents coaching buyout costs across FBS conferences
+- Connects to financial sustainability concerns expressed by 86% of presidents, 80% of ADs
+- Stakeholder perspective: Coaching turnover is financially HARMFUL (buyouts drain budgets)
+
+SURVEY FINDINGS: HOUSE SETTLEMENT IMPACT (RESOURCE CONSTRAINT CONTEXT)
+
+Q: "What impact will House v. NCAA settlement have on various sports?"
+- Division I sports overall: 76% NEGATIVE, 8% POSITIVE
+- Women's sports: 72% NEGATIVE, 7% POSITIVE
+- Men's Olympic sports: 73% NEGATIVE, 5% POSITIVE
+- Football: 40% NEGATIVE, 36% POSITIVE
+- Men's basketball: 35% NEGATIVE, 37% POSITIVE
+
+STAKEHOLDER INTERPRETATION:
+Resource scarcity makes coaching decisions MORE CRITICAL:
+- 72-73% say women's/Olympic sports will be harmed (resource reallocation)
+- Coaching stability/turnover decisions now have HIGHER stakes
+- BAD coaching hire = wasted resources in zero-sum environment
+- GOOD coaching retention = protection against resource drain
+
+SURVEY FINDINGS: DIVISION I STRUCTURE VIABILITY
+
+Q: "The Division I structure continues to be viable"
+- DISAGREE: 62% of all D-I leaders
+- AGREE: 21%
+- UNSURE: 17%
+
+By Stakeholder Group:
+- Presidents/Chancellors DISAGREE: 69%
+- Athletic Directors DISAGREE: 55%
+- Faculty Reps DISAGREE: Higher than average
+
+STAKEHOLDER INTERPRETATION:
+Leaders believe CURRENT MODEL is failing. Coaching turnover patterns (frequent firings, huge buyouts, roster instability through portal) are symptoms of broken structure.
+
+SURVEY FINDINGS: ACADEMIC MISSION (VALUES CONTEXT)
+
+Q: "How important is it for student-athletes to be enrolled full-time taking classes?"
+- IMPORTANT: 98% of respondents
+
+Q: "How important is it for student-athletes to graduate?"
+- IMPORTANT: 99% of respondents
+
+Q: "Should teams graduate at least 50% of athletes for postseason eligibility?"
+- SUPPORT: 95% of respondents
+
+STAKEHOLDER INTERPRETATION:
+Coaching turnover affects ACADEMIC outcomes (transfer students lose credits, coaching changes disrupt academic support). Stakeholders value academic mission (98-99%), so coaching instability threatens core values.
+
+STAKEHOLDER QUOTES FROM SURVEY RELEASE
+
+Amy Privette Perko, CEO, Knight Commission on Intercollegiate Athletics:
+"It's a new era in college sports, and the candid views of Division I leaders suggest this new era could be a troubling one that could harm women's and collegiate Olympic sports even as the biggest football and basketball programs continue to benefit from the heightened investment and focus on their sports."
+
+Len Elmore, Co-Chair, Knight Commission:
+"This survey presents a clear picture of a defining moment in college sports. Division I is at a crossroads."
+
+Pam Bernard, Co-Chair, Knight Commission:
+"The leaders share widespread agreement that the current framework of Division I faces an unprecedented crisis of stability and sustainability. The survey also reveals that leaders support multiple potential directions for the future."
+
+Peter Roby, Knight Commission Member:
+"It is notable that 7 in 10 leaders support some type of spending limits going forward."
+
+STAKEHOLDER POWER/INTEREST ANALYSIS FROM SURVEY DATA
+
+HIGH POWER, HIGH INTEREST: Presidents/Chancellors
+- 86% concerned about financial sustainability
+- 69% believe D-I structure NOT viable
+- Control institutional funding decisions, strategic direction
+- CAN block coaching hires/retention if budgets threatened
+- PRACTICAL IMPACT: Very High (can veto coaching decisions)
+
+HIGH POWER, HIGH INTEREST: Athletic Directors
+- 80% concerned about financial sustainability
+- 55% believe D-I structure NOT viable
+- Direct hiring/firing authority over coaches
+- Manage athletic department budgets
+- PRACTICAL IMPACT: Very High (make coaching decisions)
+
+MEDIUM POWER, HIGH INTEREST: Faculty Athletics Representatives
+- Included in survey (specific percentages not broken out)
+- Influence academic standards, committee governance
+- Can raise concerns about academic mission violations
+- PRACTICAL IMPACT: Medium (can delay or influence decisions)
+
+ETHICAL IMPACT ANALYSIS FROM SURVEY DATA
+
+Who is HARMED by coaching instability?
+1. Women's Sports Athletes: 72% of leaders say House settlement (resource constraint) harms women's sports
+   - Coaching turnover + budget pressure = threat to women's programs
+   - ETHICAL CONCERN: Gender equity violations
+
+2. Olympic Sports Athletes: 73% of leaders say Olympic sports will be harmed
+   - Non-revenue sports most vulnerable to budget cuts
+   - Coaching turnover + reduced resources = program elimination risk
+   - ETHICAL CONCERN: Opportunity loss for non-revenue athletes
+
+3. Student-Athletes Generally: Transfer portal linked to coaching changes
+   - 86% of leaders say portal has NEGATIVE impact
+   - Coaching turnover → roster instability → academic disruption
+   - ETHICAL CONCERN: Academic mission compromised (98-99% say education important)
+
+========================================
+SOURCE 2: 247SPORTS TRANSFER PORTAL DATABASE - IOWA STATE CASE STUDY
+========================================
+
+DATA SOURCE: 247Sports.com Transfer Portal Tracking Database
+URL: https://247sports.com/college/iowa-state/Season/2016-Football/TransferPortal/
+Institution: Iowa State University
+Sport: Football
+Season: 2016 (Matt Campbell's first year after Paul Rhoads)
+Data Type: Player movement tracking (incoming transfers, outgoing transfers)
+
+COACHING TRANSITION CONTEXT:
+- Paul Rhoads: Iowa State head coach 2009-2015 (fired after poor performance)
+- Matt Campbell: Hired as new head coach November 2015
+- 2016 Season: Campbell's first year (coaching turnover year)
+
+TRANSFER PORTAL DATA - 2016 IOWA STATE FOOTBALL:
+- INCOMING Transfers: 0 players
+- OUTGOING Transfers: 0 players
+- Total Portal Activity: 0 player movements
+
+STAKEHOLDER INTERPRETATION (Student-Athletes as Low-Power Stakeholders):
+
+Expected Pattern (typical coaching change):
+- Players recruited by OLD coach transfer OUT (don't fit new system)
+- New coach recruits transfers IN (quick roster rebuild)
+- High portal activity = roster instability
+
+Iowa State 2016 Actual Pattern:
+- ZERO transfers in either direction
+- Student-athletes STAYED despite coaching change
+- Roster stability despite leadership transition
+
+Why This Matters (Stakeholder Perspective):
+- Student-athletes (low-power stakeholders) can "vote with their feet" via transfer portal
+- 0 transfers = stakeholder APPROVAL of coaching hire (behavioral evidence)
+- Contrast: High transfers after coaching change = stakeholder REJECTION
+
+This supports hire QUALITY matters more than stability:
+- Matt Campbell was GOOD hire → student-athletes stayed → program improved (8-5 in 2017, 8-5 in 2018, 7-6 in 2019)
+- Bad hire would likely → student-athletes leave → program continues declining
+
+LIMITATION: Iowa State is ONE case study (limited generalizability)
+
+========================================
+SOURCE 3: ATHLETIC DIRECTOR INTERVIEWS - STAKEHOLDER REANALYSIS
+========================================
+
+Original Purpose: Practitioner Evidence (Module 4)
+Reframed As: Stakeholder Evidence (Module 11)
+Stakeholder Group: Athletic Directors (HIGH POWER, HIGH INTEREST decision-makers)
+Number of Sources: 5 Athletic Directors
+Evidence Type: Published interviews and articles (secondary sources)
+
+STAKEHOLDER 1: Julie Cromer - Athletic Director, Ohio University (MAC)
+Source: Athletic Director U video interview (November 2025)
+Original Context: Practitioner expertise on coaching evaluation
+Stakeholder Reframe: HIGH POWER decision-maker perspective
+
+Stakeholder Concern: Roster stability through coaching transitions
+Quote: "We didn't lose anybody in the portal"
+Values: Program stability, student-athlete retention, continuity
+Power/Interest: HIGH/HIGH - Direct hiring authority, cares about program success
+Practical Impact: Can hire/fire coaches based on retention concerns
+Ethical Impact: Prioritizes student-athlete welfare (keeping roster intact)
+
+STAKEHOLDER 2: Kim Durand - Interim Athletic Director, Washington (Pac-12, now Big Ten)
+Source: The Athletic article - "Washington's third AD in a year"
+Original Context: Practitioner perspective on instability
+Stakeholder Reframe: HIGH POWER decision-maker experiencing crisis
+
+Stakeholder Concern: Athletic Director instability (not just coaching instability)
+Context: Washington had 3 ADs in 1 year (extreme leadership turnover)
+Values: Organizational stability, sustainable leadership structures
+Power/Interest: HIGH/HIGH - Experienced instability personally, motivated to fix
+Practical Impact: Can advocate for stable hiring practices at institutional level
+Ethical Impact: Recognizes harm of excessive turnover to staff and athletes
+
+STAKEHOLDER 3: Gene Taylor - Athletic Director, Kansas State (Big 12)
+Source: Sports Business Journal profile (November 2025)
+Original Context: Practitioner expertise on long-term stability benefits
+Stakeholder Reframe: HIGH POWER decision-maker prioritizing continuity
+
+Stakeholder Concern: Value of coaching stability (20+ years with same football coach)
+Quote Context: Kansas State had Chris Klieman stability, long history of stable coaching
+Values: Long-term relationships, program culture, sustainable success
+Power/Interest: HIGH/HIGH - Controls coaching retention decisions
+Practical Impact: Can structure contracts to incentivize long-term commitment
+Ethical Impact: Prioritizes coach job security and program community stability
+
+STAKEHOLDER 4: Ross Bjork - Athletic Director, Ohio State (Big Ten)
+Source: On3.com article - Ohio State paid $76M in coaching buyouts/severance
+Original Context: Practitioner managing financial consequences of turnover
+Stakeholder Reframe: HIGH POWER decision-maker facing financial crisis
+
+Stakeholder Concern: Unsustainable coaching buyout costs
+Financial Reality: $76M in buyouts/severance across multiple sports
+Values: Financial sustainability, resource stewardship, accountability
+Power/Interest: HIGH/HIGH - Controls athletic budget, under pressure from president/board
+Practical Impact: Can push for buyout reduction policies, lower guaranteed contracts
+Ethical Impact: Buyout money diverted from student-athlete scholarships, facility improvements, non-revenue sports
+
+Connection to Knight Commission Survey: Bjork's concern reflects 80% of ADs worried about financial sustainability
+
+STAKEHOLDER 5: John Cunningham - Athletic Director, Cincinnati (Big 12)
+Source: The Athletic - "Cincinnati's third coach in five seasons"
+Original Context: Practitioner managing frequent coaching turnover
+Stakeholder Reframe: HIGH POWER decision-maker experiencing instability consequences
+
+Stakeholder Concern: Excessive coaching turnover frequency
+Context: Cincinnati football had 3 head coaches in 5 years (high turnover rate)
+Values: Program stability, competitive consistency, recruiting continuity
+Power/Interest: HIGH/HIGH - Makes hiring decisions, sees negative effects firsthand
+Practical Impact: Can adjust evaluation timelines, contract structures to reduce turnover
+Ethical Impact: Frequent coaching changes disrupt student-athlete experience, academic support
+
+Connection to Knight Commission Survey: Cunningham's experience reflects 62% of leaders saying D-I headed in NEGATIVE direction
+
+STAKEHOLDER POWER/INTEREST MATRIX SUMMARY
+
+HIGH POWER, HIGH INTEREST:
+✅ Presidents/Chancellors (86% concerned about finances per Knight Commission)
+✅ Athletic Directors (80% concerned per survey; 5 ADs interviewed show varied perspectives)
+
+MEDIUM POWER, HIGH INTEREST:
+✅ Faculty Reps (included in Knight Commission survey)
+
+LOW POWER, HIGH INTEREST:
+✅ Student-Athletes (behavioral evidence from 247Sports: 0 transfers at ISU shows stakeholder approval)
+
+MISSING STAKEHOLDER VOICES (Limitation):
+❌ Donors/Boosters (no direct evidence gathered)
+❌ Coaching Staff (no coach interviews obtained)
+❌ Fans/Public (no systematic sentiment analysis)
+
+PRACTICAL IMPACT ASSESSMENT
+
+Who can BLOCK or INFLUENCE coaching decisions?
+1. Presidents/Chancellors: YES - Control budgets, can veto hires if financially unsustainable
+   - 86% concerned about finances → LIKELY to block expensive hires/buyouts
+   
+2. Athletic Directors: YES - Direct hiring/firing authority
+   - 80% concerned about finances → LIKELY to prioritize cost-effective decisions
+   - Quote from Ross Bjork context: $76M buyouts creates pressure to reduce turnover
+
+3. Faculty Reps: SOMEWHAT - Can raise academic concerns, influence policy
+   - 98-99% value academic mission → Can block if coaching turnover harms academics
+
+4. Student-Athletes: LIMITED - Can transfer (indirect power), but no direct hiring influence
+   - ISU 2016: 0 transfers = stakeholder approval (but couldn't have blocked hire)
+
+CONCLUSION: HIGH POWER stakeholders (presidents, ADs) WILL act on concerns.
+86% + 80% concern levels = VERY HIGH likelihood of policy changes on coaching turnover/buyouts
+
+ETHICAL IMPACT ASSESSMENT
+
+Who is HARMED by coaching instability?
+1. Women's Sports Athletes: 72% of leaders say they'll be harmed by resource constraints
+   - Coaching turnover + buyouts = budget cuts to women's programs
+   - Ethical violation: Gender equity threats
+
+2. Olympic Sports Athletes: 73% say they'll be harmed
+   - Non-revenue sports vulnerable when coaching buyouts drain budgets
+   - Ethical violation: Opportunity loss, program elimination
+
+3. Student-Athletes (academic mission): 98-99% of leaders value education
+   - Coaching turnover → roster instability → transfer → credit loss → graduation risk
+   - Ethical violation: Academic mission compromised
+
+4. Existing Coaches: No direct evidence, but implied job insecurity
+   - Frequent turnover culture = precarious employment
+   - Ethical concern: Job security and professional stability
+
+REPRESENTATIVENESS ASSESSMENT
+
+Strong Representation:
+✅ HIGH POWER institutional stakeholders (presidents, ADs) - 376 surveyed + 5 AD interviews
+✅ Multiple institution types (FBS, non-FBS) included in Knight Commission survey
+✅ Multiple conferences represented
+
+Weak Representation:
+❌ LOW POWER affected parties (student-athletes) - Only behavioral data, no direct survey
+❌ External financial stakeholders (donors, boosters) - No evidence gathered
+❌ Public stakeholders (fans, media) - No systematic evidence
+❌ Coaching staff - No coach interviews
+
+CONFIDENCE LEVEL: MEDIUM
+- Stakeholder DECISION-MAKER perspectives: STRONG (376 survey + 5 AD interviews)
+- Stakeholder AFFECTED PARTY perspectives: WEAK (behavioral data only for athletes)
+- Overall stakeholder landscape: PARTIALLY REPRESENTATIVE
+
+AI ASSISTANCE DOCUMENTATION
+Claude AI assisted with:
+- Locating and fetching Knight Commission/Elon Poll survey results
+- Extracting specific percentages and stakeholder group breakdowns
+- Querying 247Sports Transfer Portal database for Iowa State 2016 data
+- Reanalyzing 5 AD practitioner interviews from stakeholder perspective
+- Applying CEBMa Module 11 framework to assess practical and ethical impacts
+- Constructing Power/Interest matrix from survey data
+- Identifying representativeness gaps in stakeholder evidence
 - Somewhat Feasible: [Percentage]
 - Uncertain: [Percentage]
 - Somewhat Unfeasible: [Percentage]

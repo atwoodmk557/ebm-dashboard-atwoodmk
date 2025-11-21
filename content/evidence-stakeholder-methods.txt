@@ -1,53 +1,142 @@
-# Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+STAKEHOLDER EVIDENCE - METHODS & ENGAGEMENT STRATEGY
+Document Created: November 21, 2025
+Student: [Your Name]
+Project: Coaching Turnover Impact on Athletic Performance
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+RESEARCH QUESTION
+How do stakeholders perceive and respond to coaching turnover in Division I athletics?
 
-## Target Stakeholder Groups
+STAKEHOLDER EVIDENCE APPROACH: SECONDARY SOURCES ANALYSIS
+This stakeholder evidence uses ONLY secondary sources - no primary data collection was conducted.
+All evidence comes from published surveys, reports, and verified secondary data sources.
 
-### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+WHY STAKEHOLDER EVIDENCE MATTERS (CEBMa Module 11)
+Stakeholder perceptions are "social facts" with actual effects on decision outcomes.
+Stakeholders with POWER can block decisions or impede implementation.
+Two types of impact assessed:
+1. PRACTICAL IMPACT: Can stakeholders influence/block decisions about coaching stability?
+2. ETHICAL IMPACT: Who is harmed by coaching turnover?
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+STAKEHOLDER MAP: POWER/INTEREST FRAMEWORK
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+HIGH POWER, HIGH INTEREST (Manage Closely):
+- Presidents/Chancellors: Control budgets, strategic direction, institutional funding decisions
+- Athletic Directors: Hire/fire coaches, manage athletic budgets, set retention policies
+- Donors/Boosters: Fund programs, influence AD decisions through financial leverage
 
-### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
+HIGH POWER, LOW INTEREST (Keep Satisfied):
+- University Boards/Trustees: Governance oversight, rarely involved in day-to-day athletics
+- Conference Officials: Rule-making authority, competitive balance concerns
+- NCAA Governance: Regulatory power over transfer rules, eligibility policies
 
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+LOW POWER, HIGH INTEREST (Keep Informed):
+- Student-Athletes: Directly affected by coaching changes, can transfer ("vote with feet")
+- Coaching Staff: Job security concerns, affected by turnover decisions
+- Faculty Athletics Representatives: Academic mission guardians, limited operational power
 
-## Data Collection Methods
+LOW POWER, LOW INTEREST (Monitor):
+- General Public/Fans: Influence through attendance/viewership, limited direct power
+- Media: Shape narratives, limited decision-making authority
+- Alumni (non-donors): Emotional connection, minimal financial leverage
 
-### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+DATA SOURCES USED (SECONDARY SOURCES ONLY)
 
-#### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
+SOURCE 1: Knight Commission/Elon University Poll - Division I Leaders Survey
+Date: October 9, 2025
+URL: https://www.elon.edu/u/elon-poll/knight-commission-on-intercollegiate-athletics-division-i-leaders-survey/
+Respondents: 376 NCAA Division I leaders (26% response rate, +/-4.4% margin of error)
+Stakeholder Groups Surveyed:
+- University Presidents and Chancellors
+- Athletic Directors
+- Senior Woman Administrators
+- Faculty Athletics Representatives
+Survey Design: Online Qualtrics survey, July 29 - August 22, 2025
+Topics Assessed: Direction of D-I sports, transfer portal impact, financial concerns, governance structure
+
+SOURCE 2: Transfer Portal Data - 247Sports.com
+URL: https://247sports.com/college/iowa-state/Season/2016-Football/TransferPortal/
+Data Type: Player transfer tracking database
+Iowa State Case Study: 2016 coaching change (Paul Rhoads → Matt Campbell)
+Variables: Incoming transfers, outgoing transfers during coaching transition
+Finding: 0 incoming transfers, 0 outgoing transfers in 2016 (Campbell's first year)
+
+SOURCE 3: Secondary Analysis of Existing AD Practitioner Interviews
+Original Purpose: Practitioner evidence (Module 4)
+Reframed For: Stakeholder evidence (Module 11)
+Sources: Athletic Director U video interviews + Sports Business Journal/The Athletic articles
+Stakeholder Group: Athletic Directors (HIGH power, HIGH interest decision-makers)
+Number: 5 Athletic Directors from diverse institutions and conferences
+Method: Published interviews and articles analyzed for stakeholder concerns, values, and implementation perspectives
+
+STAKEHOLDER GROUPS INCLUDED IN EVIDENCE
+
+✅ PRESIDENTS/CHANCELLORS (86% concerned about financial sustainability)
+- Power Level: HIGH - Control institutional funding, strategic priorities
+- Interest Level: HIGH - Institutional reputation, resource allocation at stake
+- Evidence Source: Knight Commission survey (n=376 includes presidents/chancellors)
+
+✅ ATHLETIC DIRECTORS (80% concerned about program sustainability)
+- Power Level: HIGH - Direct hiring/firing authority, budget control
+- Interest Level: HIGH - Career success tied to program performance
+- Evidence Sources: Knight Commission survey + 5 AD interviews reanalyzed as stakeholder evidence
+
+✅ FACULTY ATHLETICS REPRESENTATIVES
+- Power Level: MEDIUM - Influence through governance committees
+- Interest Level: HIGH - Academic mission protection
+- Evidence Source: Knight Commission survey (included as respondent category)
+
+✅ STUDENT-ATHLETES (indirect evidence only)
+- Power Level: LOW - Can transfer but limited institutional power
+- Interest Level: HIGH - Directly affected by coaching stability/turnover
+- Evidence Source: Transfer Portal data (behavioral evidence of stakeholder responses)
+
+❌ STAKEHOLDERS NOT INCLUDED (Limitation)
+- Donors/Boosters: No direct survey or interview data available
+- Coaching Staff: No direct voice captured (besides ADs managing them)
+- General Public/Fans: No systematic sentiment analysis conducted
+- Conference Officials: No direct statements obtained
+
+ETHICAL CONSIDERATIONS
+
+Informed Consent: All secondary sources were publicly available; no primary data collection requiring consent
+Confidentiality: Knight Commission survey respondents were anonymous; AD interviews were public statements
+No Harm: Secondary analysis only; no direct stakeholder contact
+Bias Acknowledgment: Selection bias present (only high-power stakeholders well-represented)
+
+LIMITATIONS OF STAKEHOLDER EVIDENCE APPROACH
+
+1. SECONDARY SOURCES ONLY: No primary stakeholder interviews conducted
+2. SELECTION BIAS: Over-representation of HIGH POWER stakeholders (ADs, presidents)
+3. UNDER-REPRESENTATION: Student-athletes, donors, fans lack direct voice
+4. TIMING: Knight Commission survey conducted August 2025 (recent but specific context: House v. NCAA settlement)
+5. SELF-REPORT: Survey responses subject to social desirability bias
+6. SINGLE INSTITUTION CASE: Transfer Portal data limited to Iowa State 2016 example
+
+REPRESENTATIVENESS CONCERNS (CEBMa Module 11 Focus)
+
+Who We Have:
+✅ High-power decision-makers (presidents, ADs) - STRONG representation
+✅ Internal institutional stakeholders - STRONG representation
+✅ Multiple institution types (FBS, non-FBS) - ADEQUATE representation
+
+Who We're Missing:
+❌ Low-power affected parties (student-athletes, staff) - WEAK representation
+❌ External financial stakeholders (donors, boosters) - NO representation
+❌ Public stakeholders (fans, media) - NO representation
+
+Confidence Level: MEDIUM
+- Representative of DECISION-MAKER perspectives: STRONG
+- Representative of AFFECTED PARTY perspectives: WEAK
+- Overall stakeholder landscape: PARTIALLY REPRESENTATIVE
+
+AI ASSISTANCE DOCUMENTATION
+Claude AI assisted with:
+- Identifying Knight Commission/Elon Poll as credible secondary source
+- Fetching and analyzing survey methodology and results
+- Extracting Transfer Portal data from 247Sports for Iowa State case study
+- Applying CEBMa Module 11 stakeholder analysis framework (power/interest matrix)
+- Assessing representativeness and selection bias in available evidence
+- Reframing practitioner AD interviews as stakeholder evidence
 - How significantly does this problem impact your work/experience?
 - What do you see as the main causes of this problem?
 

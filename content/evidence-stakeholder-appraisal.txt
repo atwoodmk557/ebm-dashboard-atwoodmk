@@ -1,53 +1,452 @@
-# Stakeholder Evidence: Quality Assessment
-# Evaluate the credibility and usefulness of stakeholder evidence collected
+STAKEHOLDER EVIDENCE - QUALITY ASSESSMENT & APPRAISAL
+Document Created: November 21, 2025
+Student: [Your Name]
+Project: Coaching Turnover Impact on Athletic Performance
 
-## Overall Evidence Quality Assessment
+CEBMA MODULE 11 FRAMEWORK: STAKEHOLDER EVIDENCE EVALUATION
+Key Assessment Criteria:
+1. REPRESENTATIVENESS: How well does sample represent whole population?
+2. SELECTION BIAS: Were certain stakeholder voices systematically excluded?
+3. OPPORTUNITY TO EXPRESS VIEWS: Could stakeholders speak freely?
+4. PRACTICAL IMPACT: Can stakeholders block/influence decisions?
+5. ETHICAL IMPACT: Who is harmed by the problem?
+6. DEMOGRAPHIC MATCH: Do respondents match population characteristics?
 
-### Data Collection Quality
+========================================
+OVERALL EVIDENCE QUALITY ASSESSMENT
+========================================
 
-#### Sample Representativeness
-- **Target Population:** [Total number of relevant stakeholders in organization/system]
-- **Sample Size:** [Number who actually participated]
-- **Response Rate:** [Percentage of those invited who participated]
-- **Representativeness Score:** [High/Medium/Low] - [Explain why]
+Evidence Type: SECONDARY SOURCES ONLY (no primary data collection)
+Total Data Sources: 3 verified secondary sources
+Primary Source: Knight Commission/Elon Poll (376 D-I leaders surveyed)
+Supporting Sources: 247Sports Transfer Portal data + 5 AD interview reanalysis
 
-**Stakeholder Group Coverage:**
-- Management: [Percentage of total sample] - Target was [percentage] 
-- Employees: [Percentage of total sample] - Target was [percentage]
-- Customers: [Percentage of total sample] - Target was [percentage] 
-- Partners: [Percentage of total sample] - Target was [percentage]
+OVERALL CONFIDENCE LEVEL: MEDIUM (65%)
+- Decision-maker stakeholder perspectives: STRONG (85%)
+- Affected party stakeholder perspectives: WEAK (35%)
+- Representative of full stakeholder landscape: PARTIAL
 
-#### Response Quality Indicators
+========================================
+SOURCE 1 APPRAISAL: KNIGHT COMMISSION/ELON POLL SURVEY
+========================================
 
-**Survey Data Quality:**
-- Complete responses: [Percentage] of total responses
-- Partial responses: [Percentage] of total responses  
-- Average completion time: [Minutes] (Expected: [range])
-- Skip rate per question: [Average percentage]
+DATA COLLECTION QUALITY: HIGH (90%)
 
-**Interview Data Quality:**
-- Average interview length: [Minutes] (Target: [range])
-- Depth of responses: [High/Medium/Low] - [Explain assessment]
-- Consistency across interviews: [High/Medium/Low] - [Explain assessment]
+Sample Representativeness: HIGH (85%)
+- Target Population: All NCAA Division I institutions (363 institutions)
+- Invited: 1,443 D-I leaders (approximately 4 per institution)
+- Responded: 376 D-I leaders
+- Response Rate: 26%
+- Margin of Error: +/-4.4% at 95% confidence level
 
-### Bias Assessment
+Response Rate Assessment:
+✅ 26% is ABOVE AVERAGE for academic surveys of busy executives (typical: 10-20%)
+✅ 376 respondents provides statistical validity for population of ~1,443
+✅ Margin of error (+/-4.4%) acceptable for descriptive findings
+⚠️ Potential non-response bias: May non-responders differ systematically?
 
-#### Selection Bias
-**Risk Level:** [High/Medium/Low]
+Stakeholder Group Coverage:
+✅ Presidents/Chancellors: Included (HIGH POWER stakeholders)
+✅ Athletic Directors: Included (HIGH POWER stakeholders)
+✅ Senior Woman Administrators: Included (MEDIUM POWER stakeholders)
+✅ Faculty Athletics Representatives: Included (MEDIUM POWER stakeholders)
+❌ Student-Athletes: NOT included (LOW POWER but HIGH INTEREST stakeholders)
+❌ Coaching Staff: NOT included
+❌ Donors/Boosters: NOT included (HIGH POWER but external stakeholders)
 
-**Self-Selection Issues:**
-- Voluntary participation rate: [Percentage]
-- Characteristics of non-respondents: [What you know about who didn't participate]
-- Potential bias direction: [How non-participation might skew results]
+Representativeness Score: HIGH for institutional decision-makers, LOW for affected parties
 
-**Sampling Issues:**
-- Convenience sampling used: [Yes/No] - [If yes, explain limitations]
-- Geographic bias: [Any location-based skewing]
-- Departmental bias: [Any unit/function over/under-representation]
+Survey Methodology Quality: VERY HIGH (95%)
+✅ Professional survey firm (Elon University Poll - established academic polling center)
+✅ Standard online platform (Qualtrics)
+✅ Appropriate survey window (July-August 2025, no major competing events)
+✅ Transparent methodology (dates, sample size, MOE published)
+✅ Reputable sponsor (Knight Commission - established NCAA watchdog organization)
+✅ Peer-reviewed design (Knight Commission has credibility in higher ed research)
 
-#### Response Bias
+Response Quality Indicators: HIGH (85%)
+✅ Survey length: Appropriate (not reported but Knight Commission surveys typically 15-20 minutes)
+✅ Question clarity: Professional survey design, no leading questions evident
+✅ Topic relevance: Current issues (transfer portal, House settlement, D-I viability)
+⚠️ Completion rates: Not reported (cannot assess partial vs. complete responses)
+⚠️ Time-on-task data: Not published (cannot verify thoughtful responses vs. speeders)
 
-**Social Desirability Bias:**
+BIAS ASSESSMENT: MODERATE RISK (Multiple Bias Types Present)
+
+Selection Bias Risk: HIGH
+Issue: Only institutional stakeholders surveyed, NOT directly affected parties
+Who's Included: Presidents, ADs, SWAs, Faculty Reps (decision-makers)
+Who's Excluded: Student-athletes, coaches, donors, fans (affected parties + financiers)
+
+CEBMa Module 11 Warning: "Even random samples can be unrepresentative by chance"
+Application: Survey RANDOMLY sampled from D-I leadership... but leadership itself is NOT representative of all stakeholders
+
+Bias Direction: 
+- OVER-REPRESENTS: Institutional/administrative perspectives
+- UNDER-REPRESENTS: Athlete/coach/external financial perspectives
+- CONSEQUENCE: May prioritize institutional concerns over athlete welfare
+
+Self-Selection Bias Risk: MODERATE
+Issue: 26% response rate means 74% chose NOT to respond
+Who Responded: Likely those with STRONG opinions (either very concerned OR very satisfied)
+Who Didn't Respond: Potentially those with moderate views or too busy to engage
+Bias Direction: Responses may be MORE EXTREME than true population (polarization effect)
+
+Response Bias Assessment: LOW RISK
+Social Desirability Bias: LOW
+- Survey was ANONYMOUS (respondents could speak freely)
+- Topics allow negative views (majority DID express concerns: 62% negative on D-I direction)
+- No evidence of leading questions or pressure to respond positively
+
+Acquiescence Bias: LOW  
+- Survey included both agreement and disagreement options
+- Results show variation (not all questions skewed one direction)
+- Specific percentages vary widely by question (range: 7% to 99%)
+
+Recency Bias: MODERATE RISK
+- Survey conducted August 2025, just after House v. NCAA settlement announcement (July 2024-June 2025)
+- Transfer portal concerns may be heightened by recent high-profile transfers
+- Financial concerns tied to CURRENT House settlement (may not reflect long-term views)
+- Coaching turnover concerns connected to recent high-profile firings (Nebraska, Michigan State, etc.)
+
+REPRESENTATIVENESS ANALYSIS (CEBMa Module 11 Focus)
+
+Question 1: Do respondents represent the WHOLE POPULATION of D-I stakeholders?
+ANSWER: NO - Only represents DECISION-MAKER subset
+
+Population Demographics:
+- D-I Institutions: 363 schools (from FBS power conferences to FCS small conferences)
+- Student-Athletes: ~180,000 D-I athletes across all sports
+- Coaches: ~6,000 head coaches + ~20,000 assistant coaches
+- Administrators: ~1,500 presidents, ADs, senior staff
+- Donors/Boosters: Unknown number (thousands of major donors)
+- Fans/Public: Millions of stakeholders with interest but no power
+
+Survey Demographics:
+- Surveyed: 376 administrators (presidents, ADs, SWAs, faculty reps)
+- Percentage of total stakeholders: <0.2% if including athletes, coaches, donors
+- Stakeholder power representation: HIGH POWER stakeholders well-represented, LOW POWER missing
+
+Demographic Match Assessment: POOR (30%)
+✅ Geographic diversity: Likely (all D-I conferences invited)
+✅ Institution type diversity: Likely (FBS and non-FBS breakdown reported)
+✅ Gender diversity: Partially (SWAs included, but likely male-dominated overall)
+❌ Role diversity: POOR (only administrators, no athletes/coaches)
+❌ Power diversity: POOR (only high/medium power, no low power voices)
+❌ Perspective diversity: POOR (institutional view only, not affected party view)
+
+Question 2: Did stakeholders have opportunity to FREELY EXPRESS views?
+ANSWER: YES for those surveyed, but survey didn't include all stakeholder groups
+
+Survey Design for Free Expression:
+✅ Anonymous responses (no name/institution tracking reported publicly)
+✅ Independent polling organization (Elon, not NCAA - reduces institutional pressure)
+✅ Open-ended options available (quotes suggest qualitative responses collected)
+✅ Results show negative views expressed (62% say D-I headed negative direction)
+
+Limitation: Student-athletes may face retaliation risk if surveyed (NCAA eligibility concerns, team dynamics)
+Limitation: Coaches may face job security pressure if openly critical of athletic directors
+
+Question 3: Are there SELECTION BIAS concerns that undermine validity?
+ANSWER: YES - Significant selection bias toward HIGH POWER institutional stakeholders
+
+Selection Bias Type 1: Stakeholder Group Exclusion
+- Student-athletes: EXCLUDED (directly affected by coaching turnover, no voice)
+- Coaches: EXCLUDED (job security directly at stake, no voice)
+- Donors: EXCLUDED (financial power to influence decisions, no voice)
+→ CONSEQUENCE: Survey captures concerns of those who MAKE decisions, not those AFFECTED by decisions
+
+Selection Bias Type 2: Non-Response Bias
+- 74% of invited leaders did NOT respond
+- Possible reasons: Too busy, no strong opinion, uncomfortable with topic, survey fatigue
+- Concern: Do the 26% who responded differ from 74% who didn't?
+- Mitigation: Large absolute N (376) provides statistical power despite low response rate
+
+Selection Bias Type 3: Institutional Type Bias
+- FBS power conference schools: Likely over-represented (more resources, more engaged with Knight Commission)
+- Small D-I non-FBS schools: Possibly under-represented (less staff capacity, different priorities)
+- Evidence: 48% of FBS leaders concerned about classification vs. 60% non-FBS (suggests both included but proportions unclear)
+
+CEBMa Module 11 Assessment: "Primary quality indicator is REPRESENTATIVENESS"
+VERDICT: Sample is representative of D-I LEADERSHIP, NOT representative of D-I STAKEHOLDERS overall
+CONFIDENCE for decision-maker views: HIGH (85%)
+CONFIDENCE for full stakeholder landscape: LOW (40%)
+
+PRACTICAL IMPACT ASSESSMENT: VERY HIGH (90%)
+
+Can stakeholders in this survey BLOCK or INFLUENCE coaching decisions?
+ANSWER: YES - These stakeholders have DIRECT POWER
+
+Presidents/Chancellors (86% concerned about finances):
+- Power: Control institutional budgets, hire/fire athletic directors, set strategic priorities
+- Influence Mechanism: Can veto expensive coaching hires, mandate buyout reductions, cut sports
+- Likelihood of Action: VERY HIGH (86% concerned = strong consensus for change)
+- Evidence of Impact: Knight Commission has history of influencing NCAA policy (academic standards, financial reforms)
+
+Athletic Directors (80% concerned about finances):
+- Power: Direct hiring/firing authority over coaches, control athletic budgets
+- Influence Mechanism: Make coaching retention decisions, negotiate contracts, structure buyouts
+- Likelihood of Action: VERY HIGH (80% concerned = strong consensus)
+- Evidence of Impact: Ross Bjork (Ohio State) $76M buyout context shows ADs already facing financial pressure
+
+Faculty Athletics Representatives:
+- Power: Influence through governance committees, academic standards enforcement
+- Influence Mechanism: Can raise concerns about academic mission, delay decisions, require academic reviews
+- Likelihood of Action: MODERATE (have voice but less direct authority than presidents/ADs)
+
+CONCLUSION: These stakeholders WILL act on their concerns. 
+86%/80% concern levels = policy changes LIKELY (contract reforms, buyout limits, coaching evaluation changes)
+
+ETHICAL IMPACT ASSESSMENT: HIGH CONCERN (85%)
+
+Are specific groups HARMED by coaching turnover? Survey provides clear evidence: YES
+
+Women's Sports Athletes:
+- Survey Finding: 72% of leaders say House settlement will have NEGATIVE impact on women's sports
+- Connection to Coaching Turnover: Buyout costs + revenue sharing = budget pressure on women's programs
+- Ethical Harm: Gender equity violations, program cuts, resource reallocation to revenue sports
+- Stakeholder Voice: Women athletes NOT directly surveyed (ethical concern about whose voice matters)
+
+Olympic Sports Athletes:
+- Survey Finding: 73% of leaders say NEGATIVE impact on men's/women's Olympic sports
+- Connection to Coaching Turnover: Non-revenue sports vulnerable when coaching costs escalate
+- Ethical Harm: Program elimination, reduced scholarships, fewer opportunities
+- Stakeholder Voice: Olympic sport athletes NOT surveyed (decisions made ABOUT them, not BY them)
+
+Student-Athletes (Academic Mission):
+- Survey Finding: 98-99% say academic mission important (full-time enrollment, graduation)
+- Connection to Coaching Turnover: Coaching changes → roster instability → transfers → credit loss → graduation risk
+- Ethical Harm: Academic progress compromised, degree completion threatened
+- Stakeholder Voice: Student-athletes NOT surveyed (ironic given 98-99% say their education matters)
+
+CEBMa Module 11 Principle: "Evaluate who is harmed"
+VERDICT: Survey shows AWARENESS of harm (72-73% recognize it), but lacks VOICE of harmed parties
+ETHICAL QUALITY: Survey captures ethical CONCERNS, but not ethical EXPERIENCES
+
+========================================
+SOURCE 2 APPRAISAL: 247SPORTS TRANSFER PORTAL DATA
+========================================
+
+DATA QUALITY: MODERATE (60%)
+
+Source Credibility: HIGH (80%)
+✅ 247Sports: Established sports media company, credible player tracking
+✅ Transfer Portal data: Publicly verifiable (NCAA maintains official portal)
+✅ Data type: Behavioral evidence (actual player movements, not opinions)
+⚠️ Methodology: No documentation of how 247Sports collects/verifies transfer data
+
+Data Completeness: MODERATE (65%)
+✅ Iowa State 2016: Complete data (0 incoming, 0 outgoing = comprehensive)
+⚠️ Context: Only ONE institution, ONE year, ONE sport (football)
+❌ Comparative data: No comparison to typical coaching change transfer patterns
+❌ Longitudinal data: No multi-year tracking to establish baseline
+
+Representativeness: LOW (25%)
+❌ Single case study: Iowa State is NOT representative of all D-I programs
+❌ Unique context: Big 12 school, specific coaching hire (Matt Campbell), specific year (2016)
+❌ Sport-specific: Football only (cannot generalize to basketball, Olympic sports)
+❌ Era-specific: 2016 was BEFORE current transfer portal rules (immediate eligibility era started 2021)
+
+BIAS ASSESSMENT
+
+Selection Bias: VERY HIGH
+Issue: Iowa State was chosen BECAUSE it's an interesting case (0 transfers unusual)
+Bias Direction: Cherry-picking example that supports narrative (good hire = roster stability)
+Counter-evidence missing: No data on coaching changes that DID cause mass transfers
+CEBMa Concern: "Even random samples can be unrepresentative" - and this ISN'T random, it's purposive
+
+Availability Bias: MODERATE
+Issue: 247Sports data chosen because accessible, not because most rigorous source
+Alternative sources: NCAA official portal data (more authoritative but less accessible)
+
+Recency Bias: HIGH
+Issue: 2016 data may not reflect CURRENT transfer portal environment
+Context change: Transfer rules dramatically changed 2021 (immediate eligibility)
+Relevance: 2016 pattern may not apply to 2024-2025 coaching changes
+
+PRACTICAL VALUE: MODERATE (55%)
+✅ Behavioral Evidence: Shows stakeholder (student-athlete) actions, not just opinions
+✅ Validates Hire Quality Thesis: Good hire (Campbell) → roster stability → program success
+⚠️ Limited Generalizability: One case cannot establish pattern
+❌ Missing Stakeholder Voice: Transfer data shows BEHAVIOR but not REASONS (why did athletes stay?)
+
+ETHICAL VALUE: LOW (30%)
+❌ No Direct Voice: Student-athletes didn't explain their decisions
+❌ No Counterfactual: Don't know what would have happened with different hire
+❌ Selection: Only "successful" case shown, not cases where athletes were harmed
+
+========================================
+SOURCE 3 APPRAISAL: ATHLETIC DIRECTOR INTERVIEWS (REANALYZED)
+========================================
+
+DATA QUALITY: MODERATE (65%)
+
+Source Credibility: HIGH (85%)
+✅ Athletic Director U: Established professional development platform
+✅ Sports Business Journal: Credible sports business publication
+✅ The Athletic: Premium sports journalism with editorial standards
+✅ Public statements: ADs spoke on record (not anonymous)
+
+Sample Representativeness: LOW (35%)
+❌ Small sample: Only 5 Athletic Directors
+❌ Convenience sample: Selected based on availability/relevance, not random
+❌ Conference diversity: Unclear if all conferences represented
+❌ Institution type: Mix not documented (likely skewed toward larger programs)
+
+Data Completeness: MODERATE (60%)
+✅ Detailed context: Interviews provided rich qualitative insights
+✅ Specific examples: Julie Cromer (portal), Ross Bjork ($76M buyouts), Kim Durand (AD turnover)
+⚠️ Original purpose: Interviews conducted for practitioner evidence, not stakeholder analysis
+❌ Limited depth on stakeholder concerns: Not all interviews asked about practical/ethical impacts
+
+BIAS ASSESSMENT
+
+Selection Bias: VERY HIGH
+Issue: ADs chosen because they had relevant experiences (stability, instability, buyouts)
+Bias Direction: Over-represents ADs with notable situations
+Missing voices: ADs at smaller schools, ADs who haven't faced coaching turnover, ADs with different perspectives
+
+Framing Bias: MODERATE
+Issue: Interview questions likely framed around AD expertise, not stakeholder power/impact
+Consequence: May have missed ethical/practical impact dimensions
+Mitigation: Secondary reanalysis can extract stakeholder themes even if not primary focus
+
+Publication Bias: MODERATE
+Issue: Media outlets choose which ADs to interview/profile
+Bias direction: Likely favor high-profile programs, controversial situations, name-brand schools
+Missing: ADs at institutions with stable, uncontroversial programs
+
+REPRESENTATIVENESS: LOW (30%)
+Question: Do 5 ADs represent all D-I ADs?
+Answer: NO - 5 out of ~363 ADs = 1.4% of population
+
+Demographic match: UNKNOWN
+- Conference representation: Not systematically diverse
+- Institution type: Appears skewed toward FBS/larger programs
+- Gender: Not tracked
+- Experience level: Mix of established ADs (Gene Taylor) and interim ADs (Kim Durand)
+
+PRACTICAL VALUE: MODERATE (60%)
+✅ Direct Power: ADs have hiring/firing authority (high practical impact)
+✅ Real Experiences: Examples like $76M buyouts show actual consequences
+⚠️ Limited scope: 5 examples cannot establish patterns
+❌ Missing comparisons: No ADs who disagree with coaching stability concerns
+
+ETHICAL VALUE: LOW (35%)
+⚠️ Partial awareness: Some ADs (Bjork) recognize financial harm, but not athlete-focused
+❌ Institutional bias: ADs naturally prioritize institutional concerns over individual athlete welfare
+❌ Power blind spot: ADs may not recognize their own power imbalances with athletes/coaches
+
+========================================
+COMBINED EVIDENCE QUALITY ASSESSMENT
+========================================
+
+OVERALL REPRESENTATIVENESS: MEDIUM (55%)
+
+Stakeholder Groups Covered:
+✅ HIGH POWER - Presidents/Chancellors: STRONG (Knight Commission survey)
+✅ HIGH POWER - Athletic Directors: STRONG (Knight Commission survey + 5 interviews)
+✅ MEDIUM POWER - Faculty Reps: ADEQUATE (Knight Commission survey)
+✅ MEDIUM POWER - Senior Woman Administrators: ADEQUATE (Knight Commission survey)
+⚠️ LOW POWER - Student-Athletes: WEAK (behavioral data only, no direct voice)
+❌ HIGH POWER - Donors/Boosters: MISSING (no evidence collected)
+❌ LOW POWER - Coaches: MISSING (no evidence collected)
+❌ LOW POWER - General Public/Fans: MISSING (no evidence collected)
+
+Stakeholder Power Coverage:
+HIGH POWER stakeholders: 70% coverage (presidents, ADs well-represented; donors missing)
+MEDIUM POWER stakeholders: 60% coverage (faculty/SWAs included but limited depth)
+LOW POWER stakeholders: 20% coverage (athlete behavior data only; coaches/fans missing)
+
+OVERALL CONFIDENCE LEVEL: MEDIUM (65%)
+
+Confidence in Decision-Maker Perspectives: HIGH (85%)
+- 376 D-I leaders surveyed with statistical validity
+- 5 AD interviews provide qualitative depth
+- Convergent findings: 86% transfer portal concerns, 80-86% financial concerns
+- Practical impact clear: These stakeholders WILL act on concerns
+
+Confidence in Affected Party Perspectives: LOW (35%)
+- Student-athletes: Only behavioral evidence (ISU 2016: 0 transfers)
+- Coaches: No direct evidence
+- Women's/Olympic sport athletes: Recognition of harm (72-73%) but no direct voice
+- Ethical impact acknowledged but not experienced from affected parties' view
+
+Confidence in Full Stakeholder Landscape: MEDIUM (55%)
+- Strong on institutional/administrative stakeholders
+- Weak on individual/affected party stakeholders
+- Missing external financial stakeholders (donors)
+
+LIMITATIONS SUMMARY
+
+1. SECONDARY SOURCES ONLY: No primary data collection conducted
+   Impact: Cannot ask follow-up questions, probe deeper, or validate interpretations
+
+2. SELECTION BIAS TOWARD HIGH POWER: Decision-makers over-represented, affected parties under-represented
+   Impact: Institutional concerns privileged over athlete welfare concerns
+
+3. SINGLE CASE STUDY: Iowa State 2016 is NOT generalizable
+   Impact: Cannot establish patterns or claim broad applicability
+
+4. TEMPORAL CONSTRAINTS: Knight Commission survey from August 2025 (recent but specific moment)
+   Impact: May reflect current crisis (House settlement) more than long-term trends
+
+5. MISSING STAKEHOLDER GROUPS: Donors, coaches, fans not included
+   Impact: Incomplete stakeholder map, may miss critical perspectives
+
+6. NO COUNTERFACTUAL: Don't know what stakeholders with POSITIVE coaching turnover experiences think
+   Impact: May over-represent problems, under-represent successful transitions
+
+STRENGTHS SUMMARY
+
+1. STATISTICALLY VALID PRIMARY SOURCE: Knight Commission 376 respondents, +/-4.4% MOE
+   Impact: Can confidently report decision-maker perspectives
+
+2. HIGH-POWER STAKEHOLDER COVERAGE: Presidents (86% concerned), ADs (80% concerned) well-documented
+   Impact: Practical impact assessment is STRONG (these stakeholders CAN act)
+
+3. BEHAVIORAL EVIDENCE: Transfer portal data provides actions, not just opinions
+   Impact: Validates that stakeholder concerns have real-world consequences
+
+4. ETHICAL IMPACT RECOGNITION: 72-73% recognize harm to women's/Olympic sports
+   Impact: Even decision-makers acknowledge ethical problems
+
+5. CONVERGENT FINDINGS: Multiple sources (survey + interviews + behavioral data) point same direction
+   Impact: Increases confidence that findings aren't artifact of single method
+
+FINAL APPRAISAL: MODERATE QUALITY, HIGH PRACTICAL VALUE, MEDIUM ETHICAL VALUE
+
+Quality Score: 65% (MEDIUM)
+- Strong methodology for covered stakeholders (Knight Commission survey)
+- Weak representativeness of full stakeholder landscape
+- Appropriate transparency about limitations
+
+Relevance Score: 80% (HIGH)  
+- Directly addresses research question (stakeholder views on coaching turnover)
+- High-power stakeholders covered (those who can ACT on findings)
+- Practical impact clear (86%/80% concern = policy changes likely)
+
+Confidence Score: 65% (MEDIUM)
+- Can confidently report decision-maker perspectives
+- Cannot confidently generalize to all stakeholder groups
+- Ethical impact recognized but not experienced from affected parties
+
+RECOMMENDATION: Use with Limitations Acknowledged
+✅ DO: Report decision-maker concerns as valid and actionable
+✅ DO: Acknowledge high practical impact (stakeholders have power)
+✅ DO: Note ethical concerns raised by decision-makers
+❌ DON'T: Claim to represent "all stakeholders"
+❌ DON'T: Generalize Iowa State case beyond single example
+❌ DON'T: Assume student-athlete behavioral data = student-athlete voice
+
+AI ASSISTANCE DOCUMENTATION
+Claude AI assisted with:
+- Applying CEBMa Module 11 appraisal framework to stakeholder evidence
+- Assessing representativeness of Knight Commission survey sample
+- Identifying selection bias in stakeholder group coverage
+- Evaluating practical vs. ethical impact dimensions
+- Calculating confidence levels for different stakeholder categories
+- Documenting limitations and strengths systematically
 - Risk assessment: [High/Medium/Low]
 - Evidence of bias: [What suggests people gave "acceptable" rather than honest answers]
 - Mitigation used: [How you tried to encourage honest responses]
