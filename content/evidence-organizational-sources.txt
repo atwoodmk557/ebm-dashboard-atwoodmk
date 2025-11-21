@@ -108,24 +108,17 @@ connecting findings to X→Y hypothesis, identifying data limitations
 ===========================================================================
 
 DATASET 3: SPORTS-REFERENCE COLLEGE FOOTBALL COACHING CHANGES & PERFORMANCE
-- **Report Period:** [Time period covered]
-- **Key Findings Related to Problem:** [What this report reveals about your problem]
-- **Key Findings Related to Solution:** [What this report reveals about solution feasibility]
-- **Data Quality Assessment:** [How reliable is this report]
-- **Limitations:** [What this report doesn't tell you]
+Document Updated: November 21, 2025
+Source: Sports-Reference.com - College Football School History Database
 
-### Report 2: [Report Name/Type]
-[Follow same structure as Report 1]
+PURPOSE: Address BLS limitation by measuring ACTUAL coaching turnover (X variable) 
+and team performance (Y variable) to test X→Y hypothesis.
 
-### Report 3: [Report Name/Type]
-[Follow same structure as Report 1]
-
-## Process Analysis
-
-### Current State Process Documentation
-**Process Name:** [The process most affected by your problem]
-- **Process Description:** [How the process currently works]
-- **Process Performance:** [Current efficiency, quality, cost metrics]
+DATA SOURCES:
+1. Iowa State Cyclones Football History (1895-2025, 128 seasons)
+   URL: https://www.sports-reference.com/cfb/schools/iowa-state/
+   
+2. Big 12 Conference History (1996-2025, 30 seasons)
 - **Problem Manifestation:** [How the problem shows up in this process]
 - **Improvement Potential:** [What organizational data suggests about improvement opportunities]
 
