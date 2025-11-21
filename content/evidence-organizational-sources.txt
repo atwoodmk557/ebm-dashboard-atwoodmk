@@ -227,3 +227,114 @@ INSTRUCTIONS:
 3. Be honest about data limitations and quality issues  
 4. Look for patterns and trends, not just point-in-time snapshots
 5. Connect internal evidence to external evidence from other sources
+
+
+===========================================================================
+===========================================================================
+
+DATASET 3: SPORTS-REFERENCE COLLEGE FOOTBALL COACHING CHANGES & PERFORMANCE
+Document Updated: November 21, 2025
+Source: Sports-Reference.com - College Football School History Database
+
+PURPOSE: Address BLS limitation by measuring ACTUAL coaching turnover (X variable) 
+and team performance (Y variable) to test XY hypothesis.
+
+DATA SOURCES:
+1. Iowa State Cyclones Football History (1895-2025, 128 seasons)
+   URL: https://www.sports-reference.com/cfb/schools/iowa-state/
+   
+2. Big 12 Conference History (1996-2025, 30 seasons)
+   URL: https://www.sports-reference.com/cfb/conferences/big-12/
+
+VARIABLES COLLECTED:
+- Coach name and tenure duration
+- Win-loss records by season
+- Conference records
+- Bowl game appearances
+- Rankings (AP Poll when available)
+- Year-over-year performance changes
+
+
+===========================================================================
+
+CASE STUDY 1: IOWA STATE COACHING TRANSITION (2015-2016)
+
+COACHING CHANGE:
+Paul Rhoads  Matt Campbell (after 2015 season)
+
+PAUL RHOADS ERA (2009-2015):
+Year    Overall  Big 12  Bowl        Notes
+2009    7-6      3-5     Insight W   Strong start
+2010    5-7      3-5     No bowl     
+2011    6-7      3-6     Pinstripe L
+2012    6-7      3-6     Liberty L
+2013    3-9      2-7     No bowl     DECLINE BEGINS
+2014    2-10     0-9     No bowl     WORST SEASON
+2015    3-9      2-7     No bowl     Rhoads fired
+
+Performance Trajectory: 
+- Early success (2009-2012): Average 6-7 wins
+- Steep decline (2013-2015): 2.7 wins average
+- PATTERN: X (turnover) preceded by Y (performance decline)
+
+MATT CAMPBELL ERA (2016-2025):
+Year    Overall  Big 12  Bowl        Ranking  Notes
+2016    3-9      2-7     No bowl              Rebuilding year
+2017    8-5      5-4     Liberty W            IMPROVEMENT
+2018    8-5      6-3     Alamo L      #24     Top 25
+2019    7-6      5-4     Camping W    #22     
+2020    9-3      8-1     Fiesta W     #10     TOP 10!
+2021    7-6      5-4     Cheez-It L           
+2022    4-8      1-8     No bowl              Transfer impact
+2023    7-6      6-3     Liberty L            
+2024    11-3     7-2     Pop-Tarts W  #18     Conference runner-up
+2025    6-4      3-4     (ongoing)            
+
+Performance Trajectory:
+- Immediate dip (2016): 3-9 (expected rebuild)
+- Consistent improvement (2017-2020): Peak at 9-3, #10 ranking
+- One bad year (2022): 4-8 (transfer portal disruption)
+- Recovery (2023-2024): Return to 7+ wins, 11-3 peak season
+- SUSTAINED SUCCESS: 7.7 wins/season average (2017-2024)
+
+===========================================================================
+
+DATA  INFORMATION  EVIDENCE CYCLE APPLICATION:
+
+DATA (RAW NUMBERS):
+- Paul Rhoads: 2-10 (2014), 3-9 (2015) = 5-19 last two years
+- Matt Campbell: 3-9 (2016 transition), then sustained 7+ wins average
+
+INFORMATION (PROCESSED MEANING):
+- Performance DECLINED in years BEFORE coaching change (2013-2015)
+- Coaching change was RESPONSE TO decline, not cause of it
+- New coach Campbell took 1 transition year, then stabilized program
+- Average wins increased from 2.7 (Rhoads 2013-15) to 7.7 (Campbell 2017-24)
+
+EVIDENCE (HYPOTHESIS TESTING):
+DOES coaching turnover CAUSE performance decline? 
+ISU CASE: NO - Performance declined FIRST, turnover was organizational response
+HOWEVER: Turnover did create SHORT-TERM disruption (1 year rebuild)
+BUT: Long-term stability under new coach IMPROVED performance significantly
+
+CONCLUSION: Coaching turnover can be either:
+  A) RESPONSE to existing decline (ISU Paul Rhoads case)
+  B) CATALYST for improvement if right hire made (ISU Matt Campbell case)
+  C) Both simultaneously (decline triggers change, change enables recovery)
+
+===========================================================================
+
+AI ASSISTANCE DOCUMENTATION (Sports-Reference Data):
+AI (Claude) assisted with:
+  - Locating Sports-Reference URLs for ISU and Big 12
+  - Extracting historical win-loss records from web pages
+  - Organizing data into chronological tables
+  - Calculating averages and performance trajectories
+
+Student completed independently:
+  - Selecting ISU as relevant case study
+  - Identifying Paul RhoadsMatt Campbell transition as key example
+  - Analyzing performance patterns before/after change
+  - Recognizing that decline preceded turnover (not caused by it)
+  - Applying DataInformationEvidence cycle
+  - Drawing conclusions about turnover complexity
