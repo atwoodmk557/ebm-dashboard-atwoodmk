@@ -104,9 +104,10 @@ AI helped with: Data extraction from BLS website, calculations, formatting
 Student completed: All analysis, interpretation, pattern identification, 
 connecting findings to X→Y hypothesis, identifying data limitations
 
-## Internal Reports Analysis
+===========================================================================
+===========================================================================
 
-### Report 1: [Report Name/Type]
+DATASET 3: SPORTS-REFERENCE COLLEGE FOOTBALL COACHING CHANGES & PERFORMANCE
 - **Report Period:** [Time period covered]
 - **Key Findings Related to Problem:** [What this report reveals about your problem]
 - **Key Findings Related to Solution:** [What this report reveals about solution feasibility]
@@ -226,9 +227,6 @@ INSTRUCTIONS:
 2. Include both quantitative metrics and qualitative insights from reports
 3. Be honest about data limitations and quality issues  
 4. Look for patterns and trends, not just point-in-time snapshots
-5. Connect internal evidence to external evidence from other sources
-
-
 ===========================================================================
 ===========================================================================
 
